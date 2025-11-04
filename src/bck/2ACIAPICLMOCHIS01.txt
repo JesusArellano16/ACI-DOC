@@ -1,0 +1,3488 @@
+﻿Error: list index out of range
+2ACIAPICLMOCHIS01# moquery -c l1PhysIf | egrep -w "#|adminSt|descr|dn"
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-102/sys/phys-[eth1/33]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-102/sys/phys-[eth1/34]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-102/sys/phys-[eth1/35]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-102/sys/phys-[eth1/36]
+# l1.PhysIf
+adminSt                        : down
+descr                          : B2B A SMAC2
+dn                             : topology/pod-1/node-102/sys/phys-[eth1/37]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-102/sys/phys-[eth1/38]
+# l1.PhysIf
+adminSt                        : up
+descr                          : A 2R_MAC_MXMOCHI_2 | xe-1/2/0 | B2B | UP-LINK SERVICIOS
+dn                             : topology/pod-1/node-102/sys/phys-[eth1/39]
+# l1.PhysIf
+adminSt                        : up
+descr                          : LINK_GESTION
+dn                             : topology/pod-1/node-102/sys/phys-[eth1/40]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-102/sys/phys-[eth1/41]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-102/sys/phys-[eth1/42]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-102/sys/phys-[eth1/43]
+# l1.PhysIf
+adminSt                        : up
+descr                          : LINK_HACIA_2R_MAC_MXMOCHI_2_xe-1/1/1_ae110_L3
+dn                             : topology/pod-1/node-102/sys/phys-[eth1/44]
+# l1.PhysIf
+adminSt                        : up
+descr                          : LINK_HACIA_2R_MAC_MXMOCHI_2_xe-0/0/0_ae110_L3
+dn                             : topology/pod-1/node-102/sys/phys-[eth1/45]
+# l1.PhysIf
+adminSt                        : up
+descr                          : LINK_HACIA_APIC
+dn                             : topology/pod-1/node-102/sys/phys-[eth1/46]
+# l1.PhysIf
+adminSt                        : up
+descr                          : LINK_HACIA_APIC
+dn                             : topology/pod-1/node-102/sys/phys-[eth1/47]
+# l1.PhysIf
+adminSt                        : up
+descr                          : LINK_HACIA_APIC
+dn                             : topology/pod-1/node-102/sys/phys-[eth1/48]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-102/sys/phys-[eth1/49]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-102/sys/phys-[eth1/50]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-102/sys/phys-[eth1/51]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-102/sys/phys-[eth1/52]
+# l1.PhysIf
+adminSt                        : up
+descr                          : LINK_HACIA_SPINE
+dn                             : topology/pod-1/node-102/sys/phys-[eth1/53]
+# l1.PhysIf
+adminSt                        : up
+descr                          : LINK_HACIA_SPINE
+dn                             : topology/pod-1/node-102/sys/phys-[eth1/54]
+# l1.PhysIf
+adminSt                        : down
+descr                          : LINK_HACIA_To_PTMP-HG1-1705-0001
+dn                             : topology/pod-1/node-102/sys/phys-[eth1/1]
+# l1.PhysIf
+adminSt                        : up
+descr                          : To_BSC_ERICCSON_02
+dn                             : topology/pod-1/node-102/sys/phys-[eth1/2]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-102/sys/phys-[eth1/3]
+# l1.PhysIf
+adminSt                        : up
+descr                          : To_PTMP-UG0-1803-0011
+dn                             : topology/pod-1/node-102/sys/phys-[eth1/4]
+# l1.PhysIf
+adminSt                        : up
+descr                          : LINK_HACIA_To_PTMP-UG0-1603-0012
+dn                             : topology/pod-1/node-102/sys/phys-[eth1/5]
+# l1.PhysIf
+adminSt                        : up
+descr                          : LINK_HACIA_To_PTMP-UG0-1610-0007
+dn                             : topology/pod-1/node-102/sys/phys-[eth1/6]
+# l1.PhysIf
+adminSt                        : up
+descr                          : To_EVO1_LMOEV1
+dn                             : topology/pod-1/node-102/sys/phys-[eth1/7]
+# l1.PhysIf
+adminSt                        : up
+descr                          : To_EVO2_LMOEV2
+dn                             : topology/pod-1/node-102/sys/phys-[eth1/8]
+# l1.PhysIf
+adminSt                        : up
+descr                          : LINK_HACIA_To_PTMP-UG0-1208-0006
+dn                             : topology/pod-1/node-102/sys/phys-[eth1/9]
+# l1.PhysIf
+adminSt                        : up
+descr                          : To_PTMP-UG0-1408-0024
+dn                             : topology/pod-1/node-102/sys/phys-[eth1/10]
+# l1.PhysIf
+adminSt                        : up
+descr                          : NR-GABRIEL_LEYVA
+dn                             : topology/pod-1/node-102/sys/phys-[eth1/11]
+# l1.PhysIf
+adminSt                        : up
+descr                          : RESERVADO A MGMT SW5331 2S_MGM_CRV_LMOC02 | PTO XGi 0/0/1
+dn                             : topology/pod-1/node-102/sys/phys-[eth1/12]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-102/sys/phys-[eth1/13]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-102/sys/phys-[eth1/14]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-102/sys/phys-[eth1/15]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-102/sys/phys-[eth1/16]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-102/sys/phys-[eth1/17]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-102/sys/phys-[eth1/18]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-102/sys/phys-[eth1/19]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-102/sys/phys-[eth1/20]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-102/sys/phys-[eth1/21]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-102/sys/phys-[eth1/22]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-102/sys/phys-[eth1/23]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-102/sys/phys-[eth1/24]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-102/sys/phys-[eth1/25]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-102/sys/phys-[eth1/26]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-102/sys/phys-[eth1/27]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-102/sys/phys-[eth1/28]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-102/sys/phys-[eth1/29]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-102/sys/phys-[eth1/30]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-102/sys/phys-[eth1/31]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-102/sys/phys-[eth1/32]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-101/sys/phys-[eth1/33]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-101/sys/phys-[eth1/34]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-101/sys/phys-[eth1/35]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-101/sys/phys-[eth1/36]
+# l1.PhysIf
+adminSt                        : down
+descr                          : B2B A SMAC1
+dn                             : topology/pod-1/node-101/sys/phys-[eth1/37]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-101/sys/phys-[eth1/38]
+# l1.PhysIf
+adminSt                        : up
+descr                          : A 2R_MAC_MXMOCHI_1 | xe-1/2/0 | B2B | UP-LINK SERVICIOS
+dn                             : topology/pod-1/node-101/sys/phys-[eth1/39]
+# l1.PhysIf
+adminSt                        : up
+descr                          : LINK_GESTION
+dn                             : topology/pod-1/node-101/sys/phys-[eth1/40]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-101/sys/phys-[eth1/41]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-101/sys/phys-[eth1/42]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-101/sys/phys-[eth1/43]
+# l1.PhysIf
+adminSt                        : up
+descr                          : LINK_HACIA_2R_MAC_MXMOCHI_1_xe-1/1/1_ae110_L3
+dn                             : topology/pod-1/node-101/sys/phys-[eth1/44]
+# l1.PhysIf
+adminSt                        : up
+descr                          : LINK_HACIA_2R_MAC_MXMOCHI_1_xe-0/0/0_ae110_L3
+dn                             : topology/pod-1/node-101/sys/phys-[eth1/45]
+# l1.PhysIf
+adminSt                        : up
+descr                          : LINK_HACIA_APIC
+dn                             : topology/pod-1/node-101/sys/phys-[eth1/46]
+# l1.PhysIf
+adminSt                        : up
+descr                          : LINK_HACIA_APIC
+dn                             : topology/pod-1/node-101/sys/phys-[eth1/47]
+# l1.PhysIf
+adminSt                        : up
+descr                          : LINK_HACIA_APIC
+dn                             : topology/pod-1/node-101/sys/phys-[eth1/48]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-101/sys/phys-[eth1/49]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-101/sys/phys-[eth1/50]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-101/sys/phys-[eth1/51]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-101/sys/phys-[eth1/52]
+# l1.PhysIf
+adminSt                        : up
+descr                          : LINK_HACIA_SPINE
+dn                             : topology/pod-1/node-101/sys/phys-[eth1/53]
+# l1.PhysIf
+adminSt                        : up
+descr                          : LINK_HACIA_SPINE
+dn                             : topology/pod-1/node-101/sys/phys-[eth1/54]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-101/sys/phys-[eth1/1]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-101/sys/phys-[eth1/2]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-101/sys/phys-[eth1/3]
+# l1.PhysIf
+adminSt                        : up
+descr                          : To_BSC_ERICCSON_01
+dn                             : topology/pod-1/node-101/sys/phys-[eth1/4]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-101/sys/phys-[eth1/5]
+# l1.PhysIf
+adminSt                        : up
+descr                          : LINK_HACIA_To_PTMP-HG1-1107-0080
+dn                             : topology/pod-1/node-101/sys/phys-[eth1/6]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-101/sys/phys-[eth1/7]
+# l1.PhysIf
+adminSt                        : up
+descr                          : To_EVO1_LMOEV1
+dn                             : topology/pod-1/node-101/sys/phys-[eth1/8]
+# l1.PhysIf
+adminSt                        : up
+descr                          : To_EVO2_LMOEV2
+dn                             : topology/pod-1/node-101/sys/phys-[eth1/9]
+# l1.PhysIf
+adminSt                        : up
+descr                          : LINK_HACIA_To_PTMP-UG0-1112-0050
+dn                             : topology/pod-1/node-101/sys/phys-[eth1/10]
+# l1.PhysIf
+adminSt                        : up
+descr                          : LINK_HACIA_To_PTMP-UG0-1112-0136
+dn                             : topology/pod-1/node-101/sys/phys-[eth1/11]
+# l1.PhysIf
+adminSt                        : up
+descr                          : RESERVADO A MGMT SW5331 2S_MGM_CRV_LMOC01 | PTO XGi 0/0/1
+dn                             : topology/pod-1/node-101/sys/phys-[eth1/12]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-101/sys/phys-[eth1/13]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-101/sys/phys-[eth1/14]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-101/sys/phys-[eth1/15]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-101/sys/phys-[eth1/16]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-101/sys/phys-[eth1/17]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-101/sys/phys-[eth1/18]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-101/sys/phys-[eth1/19]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-101/sys/phys-[eth1/20]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-101/sys/phys-[eth1/21]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-101/sys/phys-[eth1/22]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-101/sys/phys-[eth1/23]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-101/sys/phys-[eth1/24]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-101/sys/phys-[eth1/25]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-101/sys/phys-[eth1/26]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-101/sys/phys-[eth1/27]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-101/sys/phys-[eth1/28]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-101/sys/phys-[eth1/29]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-101/sys/phys-[eth1/30]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-101/sys/phys-[eth1/31]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-101/sys/phys-[eth1/32]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-202/sys/phys-[eth1/33]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-202/sys/phys-[eth1/34]
+# l1.PhysIf
+adminSt                        : up
+descr                          : LINK_HACIA_LEAF
+dn                             : topology/pod-1/node-202/sys/phys-[eth1/1]
+# l1.PhysIf
+adminSt                        : up
+descr                          : LINK_HACIA_LEAF
+dn                             : topology/pod-1/node-202/sys/phys-[eth1/2]
+# l1.PhysIf
+adminSt                        : up
+descr                          : LINK_HACIA_LEAF
+dn                             : topology/pod-1/node-202/sys/phys-[eth1/3]
+# l1.PhysIf
+adminSt                        : up
+descr                          : LINK_HACIA_LEAF
+dn                             : topology/pod-1/node-202/sys/phys-[eth1/4]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-202/sys/phys-[eth1/5]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-202/sys/phys-[eth1/6]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-202/sys/phys-[eth1/7]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-202/sys/phys-[eth1/8]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-202/sys/phys-[eth1/9]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-202/sys/phys-[eth1/10]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-202/sys/phys-[eth1/11]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-202/sys/phys-[eth1/12]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-202/sys/phys-[eth1/13]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-202/sys/phys-[eth1/14]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-202/sys/phys-[eth1/15]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-202/sys/phys-[eth1/16]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-202/sys/phys-[eth1/17]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-202/sys/phys-[eth1/18]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-202/sys/phys-[eth1/19]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-202/sys/phys-[eth1/20]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-202/sys/phys-[eth1/21]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-202/sys/phys-[eth1/22]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-202/sys/phys-[eth1/23]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-202/sys/phys-[eth1/24]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-202/sys/phys-[eth1/25]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-202/sys/phys-[eth1/26]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-202/sys/phys-[eth1/27]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-202/sys/phys-[eth1/28]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-202/sys/phys-[eth1/29]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-202/sys/phys-[eth1/30]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-202/sys/phys-[eth1/31]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-202/sys/phys-[eth1/32]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-201/sys/phys-[eth1/33]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-201/sys/phys-[eth1/34]
+# l1.PhysIf
+adminSt                        : up
+descr                          : LINK_HACIA_LEAF
+dn                             : topology/pod-1/node-201/sys/phys-[eth1/1]
+# l1.PhysIf
+adminSt                        : up
+descr                          : LINK_HACIA_LEAF
+dn                             : topology/pod-1/node-201/sys/phys-[eth1/2]
+# l1.PhysIf
+adminSt                        : up
+descr                          : LINK_HACIA_LEAF
+dn                             : topology/pod-1/node-201/sys/phys-[eth1/3]
+# l1.PhysIf
+adminSt                        : up
+descr                          : LINK_HACIA_LEAF
+dn                             : topology/pod-1/node-201/sys/phys-[eth1/4]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-201/sys/phys-[eth1/5]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-201/sys/phys-[eth1/6]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-201/sys/phys-[eth1/7]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-201/sys/phys-[eth1/8]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-201/sys/phys-[eth1/9]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-201/sys/phys-[eth1/10]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-201/sys/phys-[eth1/11]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-201/sys/phys-[eth1/12]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-201/sys/phys-[eth1/13]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-201/sys/phys-[eth1/14]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-201/sys/phys-[eth1/15]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-201/sys/phys-[eth1/16]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-201/sys/phys-[eth1/17]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-201/sys/phys-[eth1/18]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-201/sys/phys-[eth1/19]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-201/sys/phys-[eth1/20]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-201/sys/phys-[eth1/21]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-201/sys/phys-[eth1/22]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-201/sys/phys-[eth1/23]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-201/sys/phys-[eth1/24]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-201/sys/phys-[eth1/25]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-201/sys/phys-[eth1/26]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-201/sys/phys-[eth1/27]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-201/sys/phys-[eth1/28]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-201/sys/phys-[eth1/29]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-201/sys/phys-[eth1/30]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-201/sys/phys-[eth1/31]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-201/sys/phys-[eth1/32]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-151/sys/phys-[eth1/28]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-151/sys/phys-[eth1/29]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-151/sys/phys-[eth1/30]
+# l1.PhysIf
+adminSt                        : up
+descr                          : LINK_HACIA_SPINE
+dn                             : topology/pod-1/node-151/sys/phys-[eth1/54]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-151/sys/phys-[eth1/31]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-151/sys/phys-[eth1/32]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-151/sys/phys-[eth1/33]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-151/sys/phys-[eth1/34]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-151/sys/phys-[eth1/35]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-151/sys/phys-[eth1/36]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-151/sys/phys-[eth1/37]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-151/sys/phys-[eth1/38]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-151/sys/phys-[eth1/39]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-151/sys/phys-[eth1/40]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-151/sys/phys-[eth1/41]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-151/sys/phys-[eth1/42]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-151/sys/phys-[eth1/43]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-151/sys/phys-[eth1/44]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-151/sys/phys-[eth1/45]
+# l1.PhysIf
+adminSt                        : up
+descr                          : TO_CIMC1_2ACIAPICLMOCHIS03
+dn                             : topology/pod-1/node-151/sys/phys-[eth1/46]
+# l1.PhysIf
+adminSt                        : up
+descr                          : TO_CIMC1_2ACIAPICLMOCHIS02
+dn                             : topology/pod-1/node-151/sys/phys-[eth1/47]
+# l1.PhysIf
+adminSt                        : up
+descr                          : TO_CIMC1_2ACIAPICLMOCHIS01
+dn                             : topology/pod-1/node-151/sys/phys-[eth1/48]
+# l1.PhysIf
+adminSt                        : up
+descr                          : LINK_HACIA_SPINE
+dn                             : topology/pod-1/node-151/sys/phys-[eth1/53]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-151/sys/phys-[eth1/52]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-151/sys/phys-[eth1/51]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-151/sys/phys-[eth1/50]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-151/sys/phys-[eth1/49]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-151/sys/phys-[eth1/23]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-151/sys/phys-[eth1/22]
+# l1.PhysIf
+adminSt                        : up
+descr                          :
+dn                             : topology/pod-1/node-151/sys/phys-[eth1/21]
+# l1.PhysIf
+adminSt                        : down
+descr                          : HACIA_Traffic _MGW/PANEL 6-Hacia  WS-C6509- Gig 1/28
+dn                             : topology/pod-1/node-151/sys/phys-[eth1/20]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-151/sys/phys-[eth1/19]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-151/sys/phys-[eth1/18]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-151/sys/phys-[eth1/17]
+# l1.PhysIf
+adminSt                        : up
+descr                          : HACIA_LMOMG1 Tarjeta ET-IPG2 Puerto Pasivo / Mutoa-5 Puerto-3
+dn                             : topology/pod-1/node-151/sys/phys-[eth1/16]
+# l1.PhysIf
+adminSt                        : up
+descr                          : HACIA_EVO LMOEV1 Trafico MUR / Panel 25 Pto31
+dn                             : topology/pod-1/node-151/sys/phys-[eth1/15]
+# l1.PhysIf
+adminSt                        : up
+descr                          : HACIA_GESTION DE EQUIPO TP 5000 SINCRONIA LTE
+dn                             : topology/pod-1/node-151/sys/phys-[eth1/14]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-151/sys/phys-[eth1/13]
+# l1.PhysIf
+adminSt                        : up
+descr                          : HACIA_UPS_LOS_MOCHIS
+dn                             : topology/pod-1/node-151/sys/phys-[eth1/12]
+# l1.PhysIf
+adminSt                        : up
+descr                          : HACIA_EVO_LOMEV2_Trafico_MUR
+dn                             : topology/pod-1/node-151/sys/phys-[eth1/6]
+# l1.PhysIf
+adminSt                        : up
+descr                          : HACIA_blade cluster
+dn                             : topology/pod-1/node-151/sys/phys-[eth1/5]
+# l1.PhysIf
+adminSt                        : up
+descr                          : HACIA_EQUIPO_ SAR-F / PUERTOS 10Mb
+dn                             : topology/pod-1/node-151/sys/phys-[eth1/4]
+# l1.PhysIf
+adminSt                        : up
+descr                          : HACIA_LMOMG1 -  ET-IPG206 Activo | MUTOA 8 Pos 3
+dn                             : topology/pod-1/node-151/sys/phys-[eth1/7]
+# l1.PhysIf
+adminSt                        : up
+descr                          : HACIA_LMOMG1 Tarjeta ET-IPG1 Puerto Activo / Mutoa-5 Puerto-2
+dn                             : topology/pod-1/node-151/sys/phys-[eth1/3]
+# l1.PhysIf
+adminSt                        : up
+descr                          : HACIA_LMOMG1 Tarjeta O&M Puerto 0 / Mutoa-5 Puerto-1
+dn                             : topology/pod-1/node-151/sys/phys-[eth1/2]
+# l1.PhysIf
+adminSt                        : up
+descr                          : HACIA_LMOMG1 -  ET-IPG223 Pasivo | MUTOA 8 Pos 4
+dn                             : topology/pod-1/node-151/sys/phys-[eth1/8]
+# l1.PhysIf
+adminSt                        : down
+descr                          : HACIA_2R_BSC_LOS_MOCHIS Eth2/0/0 / LINK RED CORPORATIVA
+dn                             : topology/pod-1/node-151/sys/phys-[eth1/9]
+# l1.PhysIf
+adminSt                        : down
+descr                          : HACIA_Paragon Networks
+dn                             : topology/pod-1/node-151/sys/phys-[eth1/10]
+# l1.PhysIf
+adminSt                        : down
+descr                          : HACIA_Celtro Los Mochis 1
+dn                             : topology/pod-1/node-151/sys/phys-[eth1/11]
+# l1.PhysIf
+adminSt                        : down
+descr                          : HACIA_GESTION VOIP 10.17.45.16 /29
+dn                             : topology/pod-1/node-151/sys/phys-[eth1/1]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-151/sys/phys-[eth1/24]
+# l1.PhysIf
+adminSt                        : down
+descr                          : HACIA_IP RAN
+dn                             : topology/pod-1/node-151/sys/phys-[eth1/25]
+# l1.PhysIf
+adminSt                        : up
+descr                          : HACIA_SENSOR DE TEMPERATURA
+dn                             : topology/pod-1/node-151/sys/phys-[eth1/26]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-151/sys/phys-[eth1/27]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-152/sys/phys-[eth1/33]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-152/sys/phys-[eth1/34]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-152/sys/phys-[eth1/35]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-152/sys/phys-[eth1/36]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-152/sys/phys-[eth1/37]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-152/sys/phys-[eth1/38]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-152/sys/phys-[eth1/39]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-152/sys/phys-[eth1/40]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-152/sys/phys-[eth1/41]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-152/sys/phys-[eth1/42]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-152/sys/phys-[eth1/43]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-152/sys/phys-[eth1/44]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-152/sys/phys-[eth1/45]
+# l1.PhysIf
+adminSt                        : down
+descr                          : TO_MGMT1_2ACIAPICLMOCHIS03
+dn                             : topology/pod-1/node-152/sys/phys-[eth1/46]
+# l1.PhysIf
+adminSt                        : down
+descr                          : TO_MGMT1_2ACIAPICLMOCHIS02
+dn                             : topology/pod-1/node-152/sys/phys-[eth1/47]
+# l1.PhysIf
+adminSt                        : down
+descr                          : TO_MGMT1_2ACIAPICLMOCHIS01
+dn                             : topology/pod-1/node-152/sys/phys-[eth1/48]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-152/sys/phys-[eth1/49]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-152/sys/phys-[eth1/50]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-152/sys/phys-[eth1/51]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-152/sys/phys-[eth1/52]
+# l1.PhysIf
+adminSt                        : up
+descr                          : LINK_HACIA_SPINE
+dn                             : topology/pod-1/node-152/sys/phys-[eth1/53]
+# l1.PhysIf
+adminSt                        : up
+descr                          : LINK_HACIA_SPINE
+dn                             : topology/pod-1/node-152/sys/phys-[eth1/54]
+# l1.PhysIf
+adminSt                        : down
+descr                          : HACIA_OptiX_OSN_2500
+dn                             : topology/pod-1/node-152/sys/phys-[eth1/1]
+# l1.PhysIf
+adminSt                        : down
+descr                          : HACIA_Celtro Los Mochis 2
+dn                             : topology/pod-1/node-152/sys/phys-[eth1/2]
+# l1.PhysIf
+adminSt                        : up
+descr                          : GABRIEL_LEYVA
+dn                             : topology/pod-1/node-152/sys/phys-[eth1/3]
+# l1.PhysIf
+adminSt                        : up
+descr                          : HACIA_EQUIPO ANRITSU
+dn                             : topology/pod-1/node-152/sys/phys-[eth1/4]
+# l1.PhysIf
+adminSt                        : down
+descr                          : HACIA_IP RAN ZTE
+dn                             : topology/pod-1/node-152/sys/phys-[eth1/5]
+# l1.PhysIf
+adminSt                        : up
+descr                          : HACIA_Gestisn_Exp_De_fuerza_IP_10.17.33.170
+dn                             : topology/pod-1/node-152/sys/phys-[eth1/6]
+# l1.PhysIf
+adminSt                        : up
+descr                          : TP5000
+dn                             : topology/pod-1/node-152/sys/phys-[eth1/7]
+# l1.PhysIf
+adminSt                        : up
+descr                          : HACIA_LMOMG1 Tarjeta ET-IPG2 Puerto Activo / Mutoa-5 Puerto-6
+dn                             : topology/pod-1/node-152/sys/phys-[eth1/8]
+# l1.PhysIf
+adminSt                        : up
+descr                          : HACIA_EVO_LOMEV2_Trafico_MUR
+dn                             : topology/pod-1/node-152/sys/phys-[eth1/9]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-152/sys/phys-[eth1/10]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-152/sys/phys-[eth1/11]
+# l1.PhysIf
+adminSt                        : down
+descr                          : HACIA_Traffic _MGW/PANEL 4-Hacia CISCO7609 Gig 9/28
+dn                             : topology/pod-1/node-152/sys/phys-[eth1/12]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-152/sys/phys-[eth1/13]
+# l1.PhysIf
+adminSt                        : up
+descr                          : HACIA_EVO LMOEV1 Trafico MUR / Panel 28 Pto28
+dn                             : topology/pod-1/node-152/sys/phys-[eth1/14]
+# l1.PhysIf
+adminSt                        : up
+descr                          : HACIA_LMOMG1 Tarjeta O&M Puerto 1 / Mutoa-5 Puerto-4
+dn                             : topology/pod-1/node-152/sys/phys-[eth1/15]
+# l1.PhysIf
+adminSt                        : up
+descr                          : HACIA_LMOMG1 Tarjeta ET-IPG1 Puerto Pasivo
+dn                             : topology/pod-1/node-152/sys/phys-[eth1/16]
+# l1.PhysIf
+adminSt                        : up
+descr                          : HACIA_GESTION PLANTA HUECO ENEC
+dn                             : topology/pod-1/node-152/sys/phys-[eth1/17]
+# l1.PhysIf
+adminSt                        : up
+descr                          : HACIA_LMOMG1 -  ET-IPG206 Pasivo | MUTOA 8 Pos 5
+dn                             : topology/pod-1/node-152/sys/phys-[eth1/18]
+# l1.PhysIf
+adminSt                        : down
+descr                          : HACIA_LMOMG1 -  ET-IPG223 Activo | MUTOA 8 Pos 6
+dn                             : topology/pod-1/node-152/sys/phys-[eth1/19]
+# l1.PhysIf
+adminSt                        : up
+descr                          : To_NB-GABRIEL LEYVA
+dn                             : topology/pod-1/node-152/sys/phys-[eth1/20]
+# l1.PhysIf
+adminSt                        : up
+descr                          : HACIA_LMOMG1 -  ET-IPG223 Activo
+dn                             : topology/pod-1/node-152/sys/phys-[eth1/21]
+# l1.PhysIf
+adminSt                        : up
+descr                          : TP5000
+dn                             : topology/pod-1/node-152/sys/phys-[eth1/22]
+# l1.PhysIf
+adminSt                        : up
+descr                          : To_TOYCELL_BSC_ERICCSON
+dn                             : topology/pod-1/node-152/sys/phys-[eth1/23]
+# l1.PhysIf
+adminSt                        : up
+descr                          : To_NB-GABRIEL LEYVA_U1900
+dn                             : topology/pod-1/node-152/sys/phys-[eth1/24]
+# l1.PhysIf
+adminSt                        : down
+descr                          : HACIA_IP_RAN
+dn                             : topology/pod-1/node-152/sys/phys-[eth1/25]
+# l1.PhysIf
+adminSt                        : up
+descr                          : To_NB-GABRIEL LEYVA_SAO_TEMP
+dn                             : topology/pod-1/node-152/sys/phys-[eth1/26]
+# l1.PhysIf
+adminSt                        : down
+descr                          : HACIA_LMOMG1 -  ET-IPG223 Activo | MUTOA 8 Pos 6
+dn                             : topology/pod-1/node-152/sys/phys-[eth1/27]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-152/sys/phys-[eth1/28]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-152/sys/phys-[eth1/29]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-152/sys/phys-[eth1/30]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-152/sys/phys-[eth1/31]
+# l1.PhysIf
+adminSt                        : down
+descr                          :
+dn                             : topology/pod-1/node-152/sys/phys-[eth1/32]
+2ACIAPICLMOCHIS01# moquery -c ethpmPhysIf | egrep -w "#|dn|operSt|operStQual"
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-201/sys/phys-[eth1/33]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-201/sys/phys-[eth1/34]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-201/sys/phys-[eth1/1]/phys
+operSt             : up
+operStQual         : none
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-201/sys/phys-[eth1/2]/phys
+operSt             : up
+operStQual         : none
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-201/sys/phys-[eth1/3]/phys
+operSt             : up
+operStQual         : none
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-201/sys/phys-[eth1/4]/phys
+operSt             : up
+operStQual         : none
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-201/sys/phys-[eth1/5]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-201/sys/phys-[eth1/6]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-201/sys/phys-[eth1/7]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-201/sys/phys-[eth1/8]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-201/sys/phys-[eth1/9]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-201/sys/phys-[eth1/10]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-201/sys/phys-[eth1/11]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-201/sys/phys-[eth1/12]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-201/sys/phys-[eth1/13]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-201/sys/phys-[eth1/14]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-201/sys/phys-[eth1/15]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-201/sys/phys-[eth1/16]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-201/sys/phys-[eth1/17]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-201/sys/phys-[eth1/18]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-201/sys/phys-[eth1/19]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-201/sys/phys-[eth1/20]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-201/sys/phys-[eth1/21]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-201/sys/phys-[eth1/22]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-201/sys/phys-[eth1/23]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-201/sys/phys-[eth1/24]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-201/sys/phys-[eth1/25]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-201/sys/phys-[eth1/26]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-201/sys/phys-[eth1/27]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-201/sys/phys-[eth1/28]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-201/sys/phys-[eth1/29]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-201/sys/phys-[eth1/30]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-201/sys/phys-[eth1/31]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-201/sys/phys-[eth1/32]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-202/sys/phys-[eth1/33]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-202/sys/phys-[eth1/34]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-202/sys/phys-[eth1/1]/phys
+operSt             : up
+operStQual         : none
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-202/sys/phys-[eth1/2]/phys
+operSt             : up
+operStQual         : none
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-202/sys/phys-[eth1/3]/phys
+operSt             : up
+operStQual         : none
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-202/sys/phys-[eth1/4]/phys
+operSt             : up
+operStQual         : none
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-202/sys/phys-[eth1/5]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-202/sys/phys-[eth1/6]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-202/sys/phys-[eth1/7]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-202/sys/phys-[eth1/8]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-202/sys/phys-[eth1/9]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-202/sys/phys-[eth1/10]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-202/sys/phys-[eth1/11]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-202/sys/phys-[eth1/12]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-202/sys/phys-[eth1/13]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-202/sys/phys-[eth1/14]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-202/sys/phys-[eth1/15]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-202/sys/phys-[eth1/16]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-202/sys/phys-[eth1/17]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-202/sys/phys-[eth1/18]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-202/sys/phys-[eth1/19]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-202/sys/phys-[eth1/20]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-202/sys/phys-[eth1/21]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-202/sys/phys-[eth1/22]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-202/sys/phys-[eth1/23]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-202/sys/phys-[eth1/24]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-202/sys/phys-[eth1/25]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-202/sys/phys-[eth1/26]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-202/sys/phys-[eth1/27]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-202/sys/phys-[eth1/28]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-202/sys/phys-[eth1/29]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-202/sys/phys-[eth1/30]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-202/sys/phys-[eth1/31]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-202/sys/phys-[eth1/32]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-102/sys/phys-[eth1/33]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-102/sys/phys-[eth1/34]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-102/sys/phys-[eth1/35]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-102/sys/phys-[eth1/36]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-102/sys/phys-[eth1/37]/phys
+operSt             : down
+operStQual         : admin-down
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-102/sys/phys-[eth1/38]/phys
+operSt             : down
+operStQual         : admin-down
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-102/sys/phys-[eth1/39]/phys
+operSt             : up
+operStQual         : none
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-102/sys/phys-[eth1/40]/phys
+operSt             : up
+operStQual         : none
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-102/sys/phys-[eth1/41]/phys
+operSt             : down
+operStQual         : admin-down
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-102/sys/phys-[eth1/42]/phys
+operSt             : down
+operStQual         : admin-down
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-102/sys/phys-[eth1/43]/phys
+operSt             : down
+operStQual         : admin-down
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-102/sys/phys-[eth1/44]/phys
+operSt             : up
+operStQual         : none
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-102/sys/phys-[eth1/45]/phys
+operSt             : up
+operStQual         : none
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-102/sys/phys-[eth1/46]/phys
+operSt             : up
+operStQual         : none
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-102/sys/phys-[eth1/47]/phys
+operSt             : up
+operStQual         : none
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-102/sys/phys-[eth1/48]/phys
+operSt             : up
+operStQual         : none
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-102/sys/phys-[eth1/49]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-102/sys/phys-[eth1/50]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-102/sys/phys-[eth1/51]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-102/sys/phys-[eth1/52]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-102/sys/phys-[eth1/53]/phys
+operSt             : up
+operStQual         : none
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-102/sys/phys-[eth1/54]/phys
+operSt             : up
+operStQual         : none
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-102/sys/phys-[eth1/1]/phys
+operSt             : down
+operStQual         : admin-down
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-102/sys/phys-[eth1/2]/phys
+operSt             : up
+operStQual         : none
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-102/sys/phys-[eth1/3]/phys
+operSt             : down
+operStQual         : admin-down
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-102/sys/phys-[eth1/4]/phys
+operSt             : up
+operStQual         : none
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-102/sys/phys-[eth1/5]/phys
+operSt             : up
+operStQual         : none
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-102/sys/phys-[eth1/6]/phys
+operSt             : up
+operStQual         : none
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-102/sys/phys-[eth1/7]/phys
+operSt             : up
+operStQual         : none
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-102/sys/phys-[eth1/8]/phys
+operSt             : up
+operStQual         : none
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-102/sys/phys-[eth1/9]/phys
+operSt             : up
+operStQual         : none
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-102/sys/phys-[eth1/10]/phys
+operSt             : up
+operStQual         : none
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-102/sys/phys-[eth1/11]/phys
+operSt             : up
+operStQual         : none
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-102/sys/phys-[eth1/12]/phys
+operSt             : up
+operStQual         : none
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-102/sys/phys-[eth1/13]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-102/sys/phys-[eth1/14]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-102/sys/phys-[eth1/15]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-102/sys/phys-[eth1/16]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-102/sys/phys-[eth1/17]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-102/sys/phys-[eth1/18]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-102/sys/phys-[eth1/19]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-102/sys/phys-[eth1/20]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-102/sys/phys-[eth1/21]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-102/sys/phys-[eth1/22]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-102/sys/phys-[eth1/23]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-102/sys/phys-[eth1/24]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-102/sys/phys-[eth1/25]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-102/sys/phys-[eth1/26]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-102/sys/phys-[eth1/27]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-102/sys/phys-[eth1/28]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-102/sys/phys-[eth1/29]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-102/sys/phys-[eth1/30]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-102/sys/phys-[eth1/31]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-102/sys/phys-[eth1/32]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-151/sys/phys-[eth1/28]/phys
+operSt             : down
+operStQual         : admin-down
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-151/sys/phys-[eth1/29]/phys
+operSt             : down
+operStQual         : admin-down
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-151/sys/phys-[eth1/30]/phys
+operSt             : down
+operStQual         : admin-down
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-151/sys/phys-[eth1/54]/phys
+operSt             : up
+operStQual         : none
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-151/sys/phys-[eth1/31]/phys
+operSt             : down
+operStQual         : admin-down
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-151/sys/phys-[eth1/32]/phys
+operSt             : down
+operStQual         : admin-down
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-151/sys/phys-[eth1/33]/phys
+operSt             : down
+operStQual         : admin-down
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-151/sys/phys-[eth1/34]/phys
+operSt             : down
+operStQual         : admin-down
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-151/sys/phys-[eth1/35]/phys
+operSt             : down
+operStQual         : admin-down
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-151/sys/phys-[eth1/36]/phys
+operSt             : down
+operStQual         : admin-down
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-151/sys/phys-[eth1/37]/phys
+operSt             : down
+operStQual         : admin-down
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-151/sys/phys-[eth1/38]/phys
+operSt             : down
+operStQual         : admin-down
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-151/sys/phys-[eth1/39]/phys
+operSt             : down
+operStQual         : admin-down
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-151/sys/phys-[eth1/40]/phys
+operSt             : down
+operStQual         : admin-down
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-151/sys/phys-[eth1/41]/phys
+operSt             : down
+operStQual         : admin-down
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-151/sys/phys-[eth1/42]/phys
+operSt             : down
+operStQual         : admin-down
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-151/sys/phys-[eth1/43]/phys
+operSt             : down
+operStQual         : admin-down
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-151/sys/phys-[eth1/44]/phys
+operSt             : down
+operStQual         : admin-down
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-151/sys/phys-[eth1/45]/phys
+operSt             : down
+operStQual         : admin-down
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-151/sys/phys-[eth1/46]/phys
+operSt             : up
+operStQual         : none
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-151/sys/phys-[eth1/47]/phys
+operSt             : up
+operStQual         : none
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-151/sys/phys-[eth1/48]/phys
+operSt             : up
+operStQual         : none
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-151/sys/phys-[eth1/53]/phys
+operSt             : up
+operStQual         : none
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-151/sys/phys-[eth1/52]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-151/sys/phys-[eth1/51]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-151/sys/phys-[eth1/50]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-151/sys/phys-[eth1/49]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-151/sys/phys-[eth1/23]/phys
+operSt             : down
+operStQual         : admin-down
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-151/sys/phys-[eth1/22]/phys
+operSt             : down
+operStQual         : admin-down
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-151/sys/phys-[eth1/21]/phys
+operSt             : down
+operStQual         : link-not-connected
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-151/sys/phys-[eth1/20]/phys
+operSt             : down
+operStQual         : admin-down
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-151/sys/phys-[eth1/19]/phys
+operSt             : down
+operStQual         : admin-down
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-151/sys/phys-[eth1/18]/phys
+operSt             : down
+operStQual         : admin-down
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-151/sys/phys-[eth1/17]/phys
+operSt             : down
+operStQual         : admin-down
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-151/sys/phys-[eth1/16]/phys
+operSt             : up
+operStQual         : none
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-151/sys/phys-[eth1/15]/phys
+operSt             : up
+operStQual         : none
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-151/sys/phys-[eth1/14]/phys
+operSt             : up
+operStQual         : none
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-151/sys/phys-[eth1/13]/phys
+operSt             : down
+operStQual         : admin-down
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-151/sys/phys-[eth1/12]/phys
+operSt             : up
+operStQual         : none
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-151/sys/phys-[eth1/6]/phys
+operSt             : up
+operStQual         : none
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-151/sys/phys-[eth1/5]/phys
+operSt             : up
+operStQual         : none
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-151/sys/phys-[eth1/4]/phys
+operSt             : up
+operStQual         : none
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-151/sys/phys-[eth1/7]/phys
+operSt             : up
+operStQual         : none
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-151/sys/phys-[eth1/3]/phys
+operSt             : up
+operStQual         : none
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-151/sys/phys-[eth1/2]/phys
+operSt             : up
+operStQual         : none
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-151/sys/phys-[eth1/8]/phys
+operSt             : up
+operStQual         : none
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-151/sys/phys-[eth1/9]/phys
+operSt             : down
+operStQual         : admin-down
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-151/sys/phys-[eth1/10]/phys
+operSt             : down
+operStQual         : admin-down
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-151/sys/phys-[eth1/11]/phys
+operSt             : down
+operStQual         : admin-down
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-151/sys/phys-[eth1/1]/phys
+operSt             : down
+operStQual         : admin-down
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-151/sys/phys-[eth1/24]/phys
+operSt             : down
+operStQual         : admin-down
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-151/sys/phys-[eth1/25]/phys
+operSt             : down
+operStQual         : admin-down
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-151/sys/phys-[eth1/26]/phys
+operSt             : up
+operStQual         : none
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-151/sys/phys-[eth1/27]/phys
+operSt             : down
+operStQual         : admin-down
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-101/sys/phys-[eth1/33]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-101/sys/phys-[eth1/34]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-101/sys/phys-[eth1/35]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-101/sys/phys-[eth1/36]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-101/sys/phys-[eth1/37]/phys
+operSt             : down
+operStQual         : admin-down
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-101/sys/phys-[eth1/38]/phys
+operSt             : down
+operStQual         : admin-down
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-101/sys/phys-[eth1/39]/phys
+operSt             : up
+operStQual         : none
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-101/sys/phys-[eth1/40]/phys
+operSt             : up
+operStQual         : none
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-101/sys/phys-[eth1/41]/phys
+operSt             : down
+operStQual         : admin-down
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-101/sys/phys-[eth1/42]/phys
+operSt             : down
+operStQual         : admin-down
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-101/sys/phys-[eth1/43]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-101/sys/phys-[eth1/44]/phys
+operSt             : up
+operStQual         : none
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-101/sys/phys-[eth1/45]/phys
+operSt             : up
+operStQual         : none
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-101/sys/phys-[eth1/46]/phys
+operSt             : up
+operStQual         : none
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-101/sys/phys-[eth1/47]/phys
+operSt             : up
+operStQual         : none
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-101/sys/phys-[eth1/48]/phys
+operSt             : up
+operStQual         : none
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-101/sys/phys-[eth1/49]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-101/sys/phys-[eth1/50]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-101/sys/phys-[eth1/51]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-101/sys/phys-[eth1/52]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-101/sys/phys-[eth1/53]/phys
+operSt             : up
+operStQual         : none
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-101/sys/phys-[eth1/54]/phys
+operSt             : up
+operStQual         : none
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-101/sys/phys-[eth1/1]/phys
+operSt             : down
+operStQual         : admin-down
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-101/sys/phys-[eth1/2]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-101/sys/phys-[eth1/3]/phys
+operSt             : down
+operStQual         : admin-down
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-101/sys/phys-[eth1/4]/phys
+operSt             : up
+operStQual         : none
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-101/sys/phys-[eth1/5]/phys
+operSt             : down
+operStQual         : admin-down
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-101/sys/phys-[eth1/6]/phys
+operSt             : up
+operStQual         : none
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-101/sys/phys-[eth1/7]/phys
+operSt             : down
+operStQual         : admin-down
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-101/sys/phys-[eth1/8]/phys
+operSt             : up
+operStQual         : none
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-101/sys/phys-[eth1/9]/phys
+operSt             : up
+operStQual         : none
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-101/sys/phys-[eth1/10]/phys
+operSt             : up
+operStQual         : none
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-101/sys/phys-[eth1/11]/phys
+operSt             : up
+operStQual         : none
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-101/sys/phys-[eth1/12]/phys
+operSt             : up
+operStQual         : none
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-101/sys/phys-[eth1/13]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-101/sys/phys-[eth1/14]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-101/sys/phys-[eth1/15]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-101/sys/phys-[eth1/16]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-101/sys/phys-[eth1/17]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-101/sys/phys-[eth1/18]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-101/sys/phys-[eth1/19]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-101/sys/phys-[eth1/20]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-101/sys/phys-[eth1/21]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-101/sys/phys-[eth1/22]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-101/sys/phys-[eth1/23]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-101/sys/phys-[eth1/24]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-101/sys/phys-[eth1/25]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-101/sys/phys-[eth1/26]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-101/sys/phys-[eth1/27]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-101/sys/phys-[eth1/28]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-101/sys/phys-[eth1/29]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-101/sys/phys-[eth1/30]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-101/sys/phys-[eth1/31]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-101/sys/phys-[eth1/32]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-152/sys/phys-[eth1/33]/phys
+operSt             : down
+operStQual         : admin-down
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-152/sys/phys-[eth1/34]/phys
+operSt             : down
+operStQual         : admin-down
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-152/sys/phys-[eth1/35]/phys
+operSt             : down
+operStQual         : admin-down
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-152/sys/phys-[eth1/36]/phys
+operSt             : down
+operStQual         : admin-down
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-152/sys/phys-[eth1/37]/phys
+operSt             : down
+operStQual         : admin-down
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-152/sys/phys-[eth1/38]/phys
+operSt             : down
+operStQual         : admin-down
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-152/sys/phys-[eth1/39]/phys
+operSt             : down
+operStQual         : admin-down
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-152/sys/phys-[eth1/40]/phys
+operSt             : down
+operStQual         : admin-down
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-152/sys/phys-[eth1/41]/phys
+operSt             : down
+operStQual         : admin-down
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-152/sys/phys-[eth1/42]/phys
+operSt             : down
+operStQual         : admin-down
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-152/sys/phys-[eth1/43]/phys
+operSt             : down
+operStQual         : admin-down
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-152/sys/phys-[eth1/44]/phys
+operSt             : down
+operStQual         : admin-down
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-152/sys/phys-[eth1/45]/phys
+operSt             : down
+operStQual         : admin-down
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-152/sys/phys-[eth1/46]/phys
+operSt             : down
+operStQual         : admin-down
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-152/sys/phys-[eth1/47]/phys
+operSt             : down
+operStQual         : admin-down
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-152/sys/phys-[eth1/48]/phys
+operSt             : down
+operStQual         : admin-down
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-152/sys/phys-[eth1/49]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-152/sys/phys-[eth1/50]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-152/sys/phys-[eth1/51]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-152/sys/phys-[eth1/52]/phys
+operSt             : down
+operStQual         : sfp-missing
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-152/sys/phys-[eth1/53]/phys
+operSt             : up
+operStQual         : none
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-152/sys/phys-[eth1/54]/phys
+operSt             : up
+operStQual         : none
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-152/sys/phys-[eth1/1]/phys
+operSt             : down
+operStQual         : admin-down
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-152/sys/phys-[eth1/2]/phys
+operSt             : down
+operStQual         : admin-down
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-152/sys/phys-[eth1/3]/phys
+operSt             : up
+operStQual         : none
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-152/sys/phys-[eth1/4]/phys
+operSt             : up
+operStQual         : none
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-152/sys/phys-[eth1/5]/phys
+operSt             : down
+operStQual         : admin-down
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-152/sys/phys-[eth1/6]/phys
+operSt             : up
+operStQual         : none
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-152/sys/phys-[eth1/7]/phys
+operSt             : up
+operStQual         : none
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-152/sys/phys-[eth1/8]/phys
+operSt             : up
+operStQual         : none
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-152/sys/phys-[eth1/9]/phys
+operSt             : up
+operStQual         : none
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-152/sys/phys-[eth1/10]/phys
+operSt             : down
+operStQual         : admin-down
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-152/sys/phys-[eth1/11]/phys
+operSt             : down
+operStQual         : admin-down
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-152/sys/phys-[eth1/12]/phys
+operSt             : down
+operStQual         : admin-down
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-152/sys/phys-[eth1/13]/phys
+operSt             : down
+operStQual         : admin-down
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-152/sys/phys-[eth1/14]/phys
+operSt             : up
+operStQual         : none
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-152/sys/phys-[eth1/15]/phys
+operSt             : up
+operStQual         : none
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-152/sys/phys-[eth1/16]/phys
+operSt             : up
+operStQual         : none
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-152/sys/phys-[eth1/17]/phys
+operSt             : up
+operStQual         : none
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-152/sys/phys-[eth1/18]/phys
+operSt             : up
+operStQual         : none
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-152/sys/phys-[eth1/19]/phys
+operSt             : down
+operStQual         : admin-down
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-152/sys/phys-[eth1/20]/phys
+operSt             : up
+operStQual         : none
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-152/sys/phys-[eth1/21]/phys
+operSt             : up
+operStQual         : none
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-152/sys/phys-[eth1/22]/phys
+operSt             : up
+operStQual         : none
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-152/sys/phys-[eth1/23]/phys
+operSt             : up
+operStQual         : none
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-152/sys/phys-[eth1/24]/phys
+operSt             : up
+operStQual         : none
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-152/sys/phys-[eth1/25]/phys
+operSt             : down
+operStQual         : admin-down
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-152/sys/phys-[eth1/26]/phys
+operSt             : up
+operStQual         : none
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-152/sys/phys-[eth1/27]/phys
+operSt             : down
+operStQual         : admin-down
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-152/sys/phys-[eth1/28]/phys
+operSt             : down
+operStQual         : admin-down
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-152/sys/phys-[eth1/29]/phys
+operSt             : down
+operStQual         : admin-down
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-152/sys/phys-[eth1/30]/phys
+operSt             : down
+operStQual         : admin-down
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-152/sys/phys-[eth1/31]/phys
+operSt             : down
+operStQual         : admin-down
+# ethpm.PhysIf
+dn                 : topology/pod-1/node-152/sys/phys-[eth1/32]/phys
+operSt             : down
+operStQual         : admin-down
+2ACIAPICLMOCHIS01# moquery -c eqptCh | egrep -w "#|dn|model"
+# eqpt.Ch
+dn           : topology/pod-1/node-1/sys/ch
+model        : APIC-SERVER-M3
+# eqpt.Ch
+dn           : topology/pod-1/node-2/sys/ch
+model        : APIC-SERVER-M3
+# eqpt.Ch
+dn           : topology/pod-1/node-101/sys/ch
+model        : N9K-C93180YC-FX3
+# eqpt.Ch
+dn           : topology/pod-1/node-3/sys/ch
+model        : APIC-SERVER-M3
+# eqpt.Ch
+dn           : topology/pod-1/node-151/sys/ch
+model        : N9K-C9348GC-FXP
+# eqpt.Ch
+dn           : topology/pod-1/node-152/sys/ch
+model        : N9K-C9348GC-FXP
+# eqpt.Ch
+dn           : topology/pod-1/node-201/sys/ch
+model        : N9K-C9332C
+# eqpt.Ch
+dn           : topology/pod-1/node-202/sys/ch
+model        : N9K-C9332C
+# eqpt.Ch
+dn           : topology/pod-1/node-102/sys/ch
+model        : N9K-C93180YC-FX3
+2ACIAPICLMOCHIS01# moquery -c topSystem | egrep -w "#|address|dn|name|serial|version"
+# top.System
+address                  : 172.30.96.1
+dn                       : topology/pod-1/node-1/sys
+name                     : 2ACIAPICLMOCHIS01
+serial                   : WMP252301CE
+version                  : 6.0(7e)
+# top.System
+address                  : 172.30.96.2
+dn                       : topology/pod-1/node-2/sys
+name                     : 2ACIAPICLMOCHIS02
+serial                   : WMP252301C7
+version                  : 6.0(7e)
+# top.System
+address                  : 172.30.111.131
+dn                       : topology/pod-1/node-101/sys
+name                     : 2ACI_LO_LMOCHIS_101
+serial                   : FDO26160SY4
+version                  : n9000-16.0(7e)
+# top.System
+address                  : 172.30.96.3
+dn                       : topology/pod-1/node-3/sys
+name                     : 2ACIAPICLMOCHIS03
+serial                   : WMP252301C9
+version                  : 6.0(7e)
+# top.System
+address                  : 172.30.111.128
+dn                       : topology/pod-1/node-102/sys
+name                     : 2ACI_LO_LMOCHIS_102
+serial                   : FDO26160T4U
+version                  : n9000-16.0(7e)
+# top.System
+address                  : 172.30.111.132
+dn                       : topology/pod-1/node-151/sys
+name                     : 2ACI_LE_LMOCHIS_151
+serial                   : FLM2629013B
+version                  : n9000-16.0(7e)
+# top.System
+address                  : 172.30.111.133
+dn                       : topology/pod-1/node-152/sys
+name                     : 2ACI_LE_LMOCHIS_152
+serial                   : FLM2629010J
+version                  : n9000-16.0(7e)
+# top.System
+address                  : 172.30.111.129
+dn                       : topology/pod-1/node-201/sys
+name                     : 2ACI_SP_LMOCHIS_201
+serial                   : FDO25431AGV
+version                  : n9000-16.0(7e)
+# top.System
+address                  : 172.30.111.130
+dn                       : topology/pod-1/node-202/sys
+name                     : 2ACI_SP_LMOCHIS_202
+serial                   : FDO25431AFG
+version                  : n9000-16.0(7e)
+2ACIAPICLMOCHIS01# moquery -c fabricExplicitGEp | egrep -w "#|name|id"
+# fabric.ExplicitGEp
+name         : VPC_151-152
+id           : 151
+2ACIAPICLMOCHIS01# moquery -c fvRsPathAtt | egrep -w "#|dn|encap|mode"
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_red_gprs_Gn/epg-EPG_VLAN_913/rspathAtt-[topology/po
+d-1/paths-101/pathep-[PG_PC_L2_RMAC1]]
+encap        : vlan-913
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_red_gprs_Gn/epg-EPG_VLAN_913/rspathAtt-[topology/po
+d-1/paths-102/pathep-[PG_PC_L2_RMAC2]]
+encap        : vlan-913
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_red_gprs_Gn/epg-EPG_VLAN_913/rspathAtt-[topology/po
+d-1/paths-152/pathep-[eth1/7]]
+encap        : vlan-913
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_red_gprs_Gn/epg-EPG_VLAN_913/rspathAtt-[topology/po
+d-1/paths-152/pathep-[eth1/22]]
+encap        : vlan-913
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_red_sig_IP/epg-EPG_VLAN_522/rspathAtt-[topology/pod
+-1/paths-102/pathep-[PG_PC_L2_RMAC2]]
+encap        : vlan-522
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_red_sig_IP/epg-EPG_VLAN_522/rspathAtt-[topology/pod
+-1/paths-152/pathep-[eth1/8]]
+encap        : vlan-522
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_red_sig_IP/epg-EPG_VLAN_522/rspathAtt-[topology/pod
+-1/paths-151/pathep-[eth1/16]]
+encap        : vlan-522
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_red_sig_IP/epg-EPG_VLAN_522/rspathAtt-[topology/pod
+-1/paths-101/pathep-[eth1/37]]
+encap        : vlan-522
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_red_sig_IP/epg-EPG_VLAN_522/rspathAtt-[topology/pod
+-1/paths-102/pathep-[eth1/37]]
+encap        : vlan-522
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_red_sig_IP/epg-EPG_VLAN_535/rspathAtt-[topology/pod
+-1/paths-101/pathep-[PG_PC_L2_RMAC1]]
+encap        : vlan-535
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_red_sig_IP/epg-EPG_VLAN_535/rspathAtt-[topology/pod
+-1/paths-102/pathep-[PG_PC_L2_RMAC2]]
+encap        : vlan-535
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_red_sig_IP/epg-EPG_VLAN_521/rspathAtt-[topology/pod
+-1/paths-101/pathep-[PG_PC_L2_RMAC1]]
+encap        : vlan-521
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_red_sig_IP/epg-EPG_VLAN_521/rspathAtt-[topology/pod
+-1/paths-151/pathep-[eth1/3]]
+encap        : vlan-521
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_red_sig_IP/epg-EPG_VLAN_521/rspathAtt-[topology/pod
+-1/paths-152/pathep-[eth1/16]]
+encap        : vlan-521
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_Abis_2G_IP/epg-EPG_VLAN_919_BSC_TOYCELL_01/rspathAt
+t-[topology/pod-1/paths-152/pathep-[eth1/23]]
+encap        : vlan-919
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_Abis_2G_IP/epg-EPG_VLAN_892_SIU_ERICSSON01-GABRIEL_
+LEYV/rspathAtt-[topology/pod-1/paths-152/pathep-[eth1/24]]
+encap        : vlan-892
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_Int_Servidores/epg-EPG_VLAN_55/rspathAtt-[topology/
+pod-1/paths-151/pathep-[eth1/4]]
+encap        : vlan-55
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_Int_Servidores/epg-EPG_VLAN_55/rspathAtt-[topology/
+pod-1/paths-101/pathep-[PG_PC_L2_RMAC1]]
+encap        : vlan-55
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_Int_Servidores/epg-EPG_VLAN_55/rspathAtt-[topology/
+pod-1/paths-102/pathep-[PG_PC_L2_RMAC2]]
+encap        : vlan-55
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_Voz_Nb_Ericsson/epg-EPG_VLAN_600/rspathAtt-[topolog
+y/pod-1/paths-152/pathep-[eth1/19]]
+encap        : vlan-600
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_Voz_Nb_Ericsson/epg-EPG_VLAN_600/rspathAtt-[topolog
+y/pod-1/paths-152/pathep-[eth1/16]]
+encap        : vlan-600
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_Voz_Nb_Ericsson/epg-EPG_VLAN_600/rspathAtt-[topolog
+y/pod-1/paths-151/pathep-[eth1/16]]
+encap        : vlan-600
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_Voz_Nb_Ericsson/epg-EPG_VLAN_600/rspathAtt-[topolog
+y/pod-1/paths-102/pathep-[PG_PC_L2_RMAC2]]
+encap        : vlan-600
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_Voz_Nb_Ericsson/epg-EPG_VLAN_600/rspathAtt-[topolog
+y/pod-1/paths-101/pathep-[eth1/37]]
+encap        : vlan-600
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_Voz_Nb_Ericsson/epg-EPG_VLAN_600/rspathAtt-[topolog
+y/pod-1/paths-151/pathep-[eth1/8]]
+encap        : vlan-600
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_Voz_Nb_Ericsson/epg-EPG_VLAN_600/rspathAtt-[topolog
+y/pod-1/paths-152/pathep-[eth1/18]]
+encap        : vlan-600
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_Voz_Nb_Ericsson/epg-EPG_VLAN_600/rspathAtt-[topolog
+y/pod-1/paths-151/pathep-[eth1/3]]
+encap        : vlan-600
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_Voz_Nb_Ericsson/epg-EPG_VLAN_600/rspathAtt-[topolog
+y/pod-1/paths-152/pathep-[eth1/8]]
+encap        : vlan-600
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_Voz_Nb_Ericsson/epg-EPG_VLAN_600/rspathAtt-[topolog
+y/pod-1/paths-152/pathep-[eth1/21]]
+encap        : vlan-600
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_Voz_Nb_Ericsson/epg-EPG_VLAN_600/rspathAtt-[topolog
+y/pod-1/paths-151/pathep-[eth1/7]]
+encap        : vlan-600
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_Voz_Nb_Ericsson/epg-EPG_VLAN_600/rspathAtt-[topolog
+y/pod-1/paths-102/pathep-[eth1/37]]
+encap        : vlan-600
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_Voz_Nb_Ericsson/epg-EPG_VLAN_600/rspathAtt-[topolog
+y/pod-1/paths-152/pathep-[eth1/27]]
+encap        : vlan-600
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_Voz_Nb_Ericsson/epg-EPG_VLAN_537/rspathAtt-[topolog
+y/pod-1/paths-152/pathep-[eth1/12]]
+encap        : vlan-537
+mode         : untagged
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_Voz_Nb_Ericsson/epg-EPG_VLAN_537/rspathAtt-[topolog
+y/pod-1/paths-101/pathep-[PG_PC_L2_RMAC1]]
+encap        : vlan-537
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_Voz_Nb_Ericsson/epg-EPG_VLAN_537/rspathAtt-[topolog
+y/pod-1/paths-151/pathep-[eth1/20]]
+encap        : vlan-537
+mode         : untagged
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_telcel_ipcorp/epg-EPG_VLAN_104/rspathAtt-[topology/
+pod-1/paths-151/pathep-[eth1/9]]
+encap        : vlan-104
+mode         : untagged
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_telcel_ipcorp/epg-EPG_VLAN_104/rspathAtt-[topology/
+pod-1/paths-102/pathep-[PG_PC_L2_RMAC2]]
+encap        : vlan-104
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_telcel_ipcorp/epg-EPG_VLAN_104/rspathAtt-[topology/
+pod-1/paths-152/pathep-[eth1/1]]
+encap        : vlan-104
+mode         : untagged
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_telcel_ipcorp/epg-EPG_VLAN_104/rspathAtt-[topology/
+pod-1/paths-151/pathep-[eth1/11]]
+encap        : vlan-104
+mode         : untagged
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_telcel_ipcorp/epg-EPG_VLAN_104/rspathAtt-[topology/
+pod-1/paths-101/pathep-[PG_PC_L2_RMAC1]]
+encap        : vlan-104
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_telcel_ipcorp/epg-EPG_VLAN_104/rspathAtt-[topology/
+pod-1/paths-152/pathep-[eth1/2]]
+encap        : vlan-104
+mode         : untagged
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_telcel_ipcorp/epg-EPG_VLAN_104/rspathAtt-[topology/
+pod-1/paths-102/pathep-[eth1/37]]
+encap        : vlan-104
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_telcel_ipcorp/epg-EPG_VLAN_252/rspathAtt-[topology/
+pod-1/paths-101/pathep-[PG_PC_L2_RMAC1]]
+encap        : vlan-252
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_telcel_ipcorp/epg-EPG_VLAN_113/rspathAtt-[topology/
+pod-1/paths-101/pathep-[PG_PC_L2_RMAC1]]
+encap        : vlan-113
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_telcel_ipcorp/epg-EPG_VLAN_113/rspathAtt-[topology/
+pod-1/paths-151/pathep-[eth1/1]]
+encap        : vlan-113
+mode         : untagged
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_telcel_ipcorp/epg-EPG_VLAN_911/rspathAtt-[topology/
+pod-1/paths-101/pathep-[PG_PC_L2_RMAC1]]
+encap        : vlan-911
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_telcel_ipcorp/epg-EPG_VLAN_911/rspathAtt-[topology/
+pod-1/paths-102/pathep-[PG_PC_L2_RMAC2]]
+encap        : vlan-911
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_telcel_ipcorp/epg-EPG_VLAN_911/rspathAtt-[topology/
+pod-1/paths-152/pathep-[eth1/7]]
+encap        : vlan-911
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_telcel_ipcorp/epg-EPG_VLAN_911/rspathAtt-[topology/
+pod-1/paths-152/pathep-[eth1/22]]
+encap        : vlan-911
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_Voz_Nb_Ericsson/epg-EPG_VLAN_600/rspathAtt-[topolog
+y/pod-1/paths-101/pathep-[PG_PC_L2_RMAC1]]
+encap        : vlan-600
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_telcel_ipcorp/epg-EPG_VLAN_329/rspathAtt-[topology/
+pod-1/paths-101/pathep-[PG_PC_L2_RMAC1]]
+encap        : vlan-329
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_telcel_ipcorp/epg-EPG_VLAN_329/rspathAtt-[topology/
+pod-1/paths-102/pathep-[PG_PC_L2_RMAC2]]
+encap        : vlan-329
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_telcel_ipcorp/epg-EPG_VLAN_111/rspathAtt-[topology/
+pod-1/paths-152/pathep-[eth1/4]]
+encap        : vlan-111
+mode         : untagged
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_telcel_ipcorp/epg-EPG_VLAN_111/rspathAtt-[topology/
+pod-1/paths-151/pathep-[eth1/5]]
+encap        : vlan-111
+mode         : untagged
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_telcel_ipcorp/epg-EPG_VLAN_111/rspathAtt-[topology/
+pod-1/paths-151/pathep-[eth1/12]]
+encap        : vlan-111
+mode         : untagged
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_telcel_ipcorp/epg-EPG_VLAN_111/rspathAtt-[topology/
+pod-1/paths-151/pathep-[eth1/26]]
+encap        : vlan-111
+mode         : untagged
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_telcel_ipcorp/epg-EPG_VLAN_111/rspathAtt-[topology/
+pod-1/paths-102/pathep-[PG_PC_L2_RMAC2]]
+encap        : vlan-111
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_telcel_ipcorp/epg-EPG_VLAN_111/rspathAtt-[topology/
+pod-1/paths-101/pathep-[PG_PC_L2_RMAC1]]
+encap        : vlan-111
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_telcel_ipcorp/epg-EPG_VLAN_111/rspathAtt-[topology/
+pod-1/paths-101/pathep-[eth1/37]]
+encap        : vlan-111
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_telcel_ipcorp/epg-EPG_VLAN_2256/rspathAtt-[topology
+/pod-1/paths-152/pathep-[eth1/9]]
+encap        : vlan-2256
+mode         : untagged
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_telcel_ipcorp/epg-EPG_VLAN_2256/rspathAtt-[topology
+/pod-1/paths-102/pathep-[PG_PC_L2_RMAC2]]
+encap        : vlan-2256
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_telcel_ipcorp/epg-EPG_VLAN_2256/rspathAtt-[topology
+/pod-1/paths-151/pathep-[eth1/6]]
+encap        : vlan-2256
+mode         : untagged
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_telcel_ipcorp/epg-EPG_VLAN_2256/rspathAtt-[topology
+/pod-1/paths-101/pathep-[PG_PC_L2_RMAC1]]
+encap        : vlan-2256
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_telcel_ipcorp/epg-EPG_VLAN_104/rspathAtt-[topology/
+pod-1/paths-151/pathep-[eth1/10]]
+encap        : vlan-104
+mode         : untagged
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_telcel_ipcorp/epg-EPG_VLAN_63/rspathAtt-[topology/p
+od-1/paths-101/pathep-[PG_PC_L2_RMAC1]]
+encap        : vlan-63
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_telcel_ipcorp/epg-EPG_VLAN_63/rspathAtt-[topology/p
+od-1/paths-102/pathep-[PG_PC_L2_RMAC2]]
+encap        : vlan-63
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_telcel_ipcorp/epg-EPG_VLAN_63/rspathAtt-[topology/p
+od-1/paths-152/pathep-[eth1/47]]
+encap        : vlan-63
+mode         : untagged
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_telcel_ipcorp/epg-EPG_VLAN_63/rspathAtt-[topology/p
+od-1/paths-152/pathep-[eth1/46]]
+encap        : vlan-63
+mode         : untagged
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_telcel_ipcorp/epg-EPG_VLAN_63/rspathAtt-[topology/p
+od-1/paths-152/pathep-[eth1/48]]
+encap        : vlan-63
+mode         : untagged
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_telcel_ipcorp/epg-EPG_VLAN_253/rspathAtt-[topology/
+pod-1/paths-102/pathep-[PG_PC_L2_RMAC2]]
+encap        : vlan-253
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_telcel_ipcorp/epg-EPG_VLAN_253/rspathAtt-[topology/
+pod-1/paths-102/pathep-[eth1/12]]
+encap        : vlan-253
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_telcel_ipcorp/epg-EPG_VLAN_119_NR-GABRIEL_LEYVA-OAM
+/rspathAtt-[topology/pod-1/paths-102/pathep-[eth1/11]]
+encap        : vlan-119
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_telcel_ipcorp/epg-EPG_VLAN_64/rspathAtt-[topology/p
+od-1/paths-101/pathep-[PG_PC_L2_RMAC1]]
+encap        : vlan-64
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_telcel_ipcorp/epg-EPG_VLAN_64/rspathAtt-[topology/p
+od-1/paths-102/pathep-[PG_PC_L2_RMAC2]]
+encap        : vlan-64
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_telcel_ipcorp/epg-EPG_VLAN_64/rspathAtt-[topology/p
+od-1/paths-151/pathep-[eth1/48]]
+encap        : vlan-64
+mode         : untagged
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_telcel_ipcorp/epg-EPG_VLAN_64/rspathAtt-[topology/p
+od-1/paths-151/pathep-[eth1/46]]
+encap        : vlan-64
+mode         : untagged
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_telcel_ipcorp/epg-EPG_VLAN_64/rspathAtt-[topology/p
+od-1/paths-151/pathep-[eth1/47]]
+encap        : vlan-64
+mode         : untagged
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_telcel_ipcorp/epg-EPG_VLAN_103/rspathAtt-[topology/
+pod-1/paths-151/pathep-[eth1/14]]
+encap        : vlan-103
+mode         : untagged
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_telcel_ipcorp/epg-EPG_VLAN_103/rspathAtt-[topology/
+pod-1/paths-101/pathep-[PG_PC_L2_RMAC1]]
+encap        : vlan-103
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_telcel_ipcorp/epg-EPG_VLAN_103/rspathAtt-[topology/
+pod-1/paths-102/pathep-[PG_PC_L2_RMAC2]]
+encap        : vlan-103
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_telcel_ipcorp/epg-EPG_VLAN_941_Gestion_SIU_01-GABRI
+EL_LEYV/rspathAtt-[topology/pod-1/paths-152/pathep-[eth1/24]]
+encap        : vlan-941
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_telcel_ipcorp/epg-EPG_VLAN_112/rspathAtt-[topology/
+pod-1/paths-152/pathep-[eth1/17]]
+encap        : vlan-112
+mode         : untagged
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_telcel_ipcorp/epg-EPG_VLAN_112/rspathAtt-[topology/
+pod-1/paths-151/pathep-[eth1/4]]
+encap        : vlan-112
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_telcel_ipcorp/epg-EPG_VLAN_112/rspathAtt-[topology/
+pod-1/paths-152/pathep-[eth1/5]]
+encap        : vlan-112
+mode         : untagged
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_telcel_ipcorp/epg-EPG_VLAN_112/rspathAtt-[topology/
+pod-1/paths-152/pathep-[eth1/6]]
+encap        : vlan-112
+mode         : untagged
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_telcel_ipcorp/epg-EPG_VLAN_112/rspathAtt-[topology/
+pod-1/paths-102/pathep-[PG_PC_L2_RMAC2]]
+encap        : vlan-112
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_telcel_ipcorp/epg-EPG_VLAN_112/rspathAtt-[topology/
+pod-1/paths-101/pathep-[PG_PC_L2_RMAC1]]
+encap        : vlan-112
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_telcel_ipcorp/epg-EPG_VLAN_112/rspathAtt-[topology/
+pod-1/paths-101/pathep-[eth1/37]]
+encap        : vlan-112
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_telcel_ipcorp/epg-EPG_VLAN_61/rspathAtt-[topology/p
+od-1/paths-151/pathep-[eth1/2]]
+encap        : vlan-61
+mode         : untagged
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_telcel_ipcorp/epg-EPG_VLAN_61/rspathAtt-[topology/p
+od-1/paths-102/pathep-[PG_PC_L2_RMAC2]]
+encap        : vlan-61
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_telcel_ipcorp/epg-EPG_VLAN_61/rspathAtt-[topology/p
+od-1/paths-101/pathep-[PG_PC_L2_RMAC1]]
+encap        : vlan-61
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_telcel_ipcorp/epg-EPG_VLAN_61/rspathAtt-[topology/p
+od-1/paths-152/pathep-[eth1/15]]
+encap        : vlan-61
+mode         : untagged
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_telcel_ipcorp/epg-EPG_VLAN_1316/rspathAtt-[topology
+/pod-1/paths-152/pathep-[eth1/14]]
+encap        : vlan-1316
+mode         : untagged
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_telcel_ipcorp/epg-EPG_VLAN_1316/rspathAtt-[topology
+/pod-1/paths-101/pathep-[PG_PC_L2_RMAC1]]
+encap        : vlan-1316
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_telcel_ipcorp/epg-EPG_VLAN_1316/rspathAtt-[topology
+/pod-1/paths-151/pathep-[eth1/15]]
+encap        : vlan-1316
+mode         : untagged
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_telcel_ipcorp/epg-EPG_VLAN_1316/rspathAtt-[topology
+/pod-1/paths-102/pathep-[PG_PC_L2_RMAC2]]
+encap        : vlan-1316
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_telcel_ipcorp/epg-EPG_VLAN_849_eNB-GABRIEL_LEYVA-OA
+M/rspathAtt-[topology/pod-1/paths-152/pathep-[eth1/3]]
+encap        : vlan-849
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_telcel_ipcorp/epg-EPG_VLAN_330/rspathAtt-[topology/
+pod-1/paths-101/pathep-[PG_PC_L2_RMAC1]]
+encap        : vlan-330
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_telcel_ipcorp/epg-EPG_VLAN_330/rspathAtt-[topology/
+pod-1/paths-102/pathep-[PG_PC_L2_RMAC2]]
+encap        : vlan-330
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_telcel_ipcorp/epg-EPG_VLAN_3169/rspathAtt-[topology
+/pod-1/paths-151/pathep-[eth1/4]]
+encap        : vlan-3169
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_telcel_ipcorp/epg-EPG_VLAN_3169/rspathAtt-[topology
+/pod-1/paths-101/pathep-[PG_PC_L2_RMAC1]]
+encap        : vlan-3169
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_telcel_ipcorp/epg-EPG_VLAN_3169/rspathAtt-[topology
+/pod-1/paths-102/pathep-[PG_PC_L2_RMAC2]]
+encap        : vlan-3169
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_telcel_ipcorp/epg-EPG_VLAN_513_NB-GABRIEL_LEYVA-OAM
+/rspathAtt-[topology/pod-1/paths-152/pathep-[eth1/20]]
+encap        : vlan-513
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_telcel_ipcorp/epg-EPG_VLAN_536_NB-GABRIEL_LEYVA_SAO
+-OAM/rspathAtt-[topology/pod-1/paths-152/pathep-[eth1/26]]
+encap        : vlan-536
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_telcel_ipcorp/epg-EPG_VLAN_685_NB-GABRIEL_LEYVA_U19
+00-OAM/rspathAtt-[topology/pod-1/paths-152/pathep-[eth1/24]]
+encap        : vlan-685
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_telcel_ipcorp/epg-EPG_VLAN_66_ESC_GABRIEL_LEYVA-OAM
+/rspathAtt-[topology/pod-1/paths-152/pathep-[eth1/24]]
+encap        : vlan-66
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_telcel_ipcorp/epg-EPG_VLAN_991_SIU_SYNC-GABRIEL_LEY
+V/rspathAtt-[topology/pod-1/paths-152/pathep-[eth1/24]]
+encap        : vlan-991
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_iub_us/epg-EPG_VLAN_213_NB-GABRIEL_LEYVA/rspathAtt-
+[topology/pod-1/paths-152/pathep-[eth1/20]]
+encap        : vlan-213
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_iub_us/epg-EPG_VLAN_236_NB-GABRIEL_LEYVA_SAO/rspath
+Att-[topology/pod-1/paths-152/pathep-[eth1/26]]
+encap        : vlan-236
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_iub_us/epg-EPG_VLAN_385_NB-GABRIEL_LEYVA_U1900/rspa
+thAtt-[topology/pod-1/paths-152/pathep-[eth1/24]]
+encap        : vlan-385
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_Voz_Nb_Ericsson/epg-EPG_VLAN_537/rspathAtt-[topolog
+y/pod-1/paths-102/pathep-[PG_PC_L2_RMAC2]]
+encap        : vlan-537
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_red_gprs_Gn/epg-EPG_VLAN_109_NR-GABRIEL_LEYVA/rspat
+hAtt-[topology/pod-1/paths-102/pathep-[eth1/11]]
+encap        : vlan-109
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_red_gprs_Gn/epg-EPG_VLAN_809_eNB-GABRIEL_LEYVA/rspa
+thAtt-[topology/pod-1/paths-152/pathep-[eth1/3]]
+encap        : vlan-809
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_red_gprs_Gn/epg-EPG_VLAN_104_DSS-GABRIEL_LEYVA/rspa
+thAtt-[topology/pod-1/paths-152/pathep-[eth1/3]]
+encap        : vlan-104
+mode         : regular
+# fv.RsPathAtt
+dn           : uni/tn-TELCEL_TELCO_NETWORK/ap-AP_telcel_ipcorp/epg-EPG_VLAN_252/rspathAtt-[topology/
+pod-1/paths-101/pathep-[eth1/12]]
+encap        : vlan-252
+mode         : regular
+2ACIAPICLMOCHIS01# moquery -c infraRsAccBaseGrp | egrep -w "#|dn|tDn"
+# infra.RsAccBaseGrp
+dn           : uni/infra/accportprof-INTP_2ACI_LE_LMOCHIS_151/hports-INTS_PORT-16-typ-range/rsaccBas
+eGrp
+tDn          : uni/infra/funcprof/accportgrp-PG_ACC_151_1.16
+# infra.RsAccBaseGrp
+dn           : uni/infra/accportprof-INTP_2ACI_LE_LMOCHIS_152/hports-INTS_PORT-8-typ-range/rsaccBase
+Grp
+tDn          : uni/infra/funcprof/accportgrp-PG_ACC_152_1.8
+# infra.RsAccBaseGrp
+dn           : uni/infra/accportprof-INTP_2ACI_LE_LMOCHIS_151/hports-INTS_PORT-4-typ-range/rsaccBase
+Grp
+tDn          : uni/infra/funcprof/accportgrp-PG_ACC_151_1.4
+# infra.RsAccBaseGrp
+dn           : uni/infra/accportprof-INTP_2ACI_LE_LMOCHIS_151/hports-INTS_PORT-14-typ-range/rsaccBas
+eGrp
+tDn          : uni/infra/funcprof/accportgrp-PG_ACC_151_1.14
+# infra.RsAccBaseGrp
+dn           : uni/infra/accportprof-INTP_2ACI_LE_LMOCHIS_151/hports-INTS_PORT-5-typ-range/rsaccBase
+Grp
+tDn          : uni/infra/funcprof/accportgrp-PG_ACC_151_1.5
+# infra.RsAccBaseGrp
+dn           : uni/infra/accportprof-INTP_2ACI_LE_LMOCHIS_151/hports-INTS_PORT-2-typ-range/rsaccBase
+Grp
+tDn          : uni/infra/funcprof/accportgrp-PG_ACC_151_1.2
+# infra.RsAccBaseGrp
+dn           : uni/infra/accportprof-INTP_2ACI_LE_LMOCHIS_151/hports-INTS_PORT-1-typ-range/rsaccBase
+Grp
+tDn          : uni/infra/funcprof/accportgrp-PG_ACC_151_1.1
+# infra.RsAccBaseGrp
+dn           : uni/infra/accportprof-INTP_2ACI_LE_LMOCHIS_151/hports-INTS_PORT-12-typ-range/rsaccBas
+eGrp
+tDn          : uni/infra/funcprof/accportgrp-PG_ACC_151_1.12
+# infra.RsAccBaseGrp
+dn           : uni/infra/accportprof-INTP_2ACI_LE_LMOCHIS_151/hports-INTS_PORT-11-typ-range/rsaccBas
+eGrp
+tDn          : uni/infra/funcprof/accportgrp-PG_ACC_151_1.11
+# infra.RsAccBaseGrp
+dn           : uni/infra/accportprof-INTP_2ACI_LE_LMOCHIS_151/hports-INTS_PORT-10-typ-range/rsaccBas
+eGrp
+tDn          : uni/infra/funcprof/accportgrp-PG_ACC_151_1.10
+# infra.RsAccBaseGrp
+dn           : uni/infra/accportprof-INTP_2ACI_LE_LMOCHIS_151/hports-INTS_PORT-47-typ-range/rsaccBas
+eGrp
+tDn          : uni/infra/funcprof/accportgrp-PG_ACC_151_1.47
+# infra.RsAccBaseGrp
+dn           : uni/infra/accportprof-INTP_2ACI_LE_LMOCHIS_151/hports-INTS_PORT-9-typ-range/rsaccBase
+Grp
+tDn          : uni/infra/funcprof/accportgrp-PG_ACC_151_1.9
+# infra.RsAccBaseGrp
+dn           : uni/infra/accportprof-INTP_2ACI_LE_LMOCHIS_151/hports-INTS_PORT-46-typ-range/rsaccBas
+eGrp
+tDn          : uni/infra/funcprof/accportgrp-PG_ACC_151_1.46
+# infra.RsAccBaseGrp
+dn           : uni/infra/accportprof-INTP_2ACI_LE_LMOCHIS_151/hports-INTS_PORT-26-typ-range/rsaccBas
+eGrp
+tDn          : uni/infra/funcprof/accportgrp-PG_ACC_151_1.26
+# infra.RsAccBaseGrp
+dn           : uni/infra/accportprof-INTP_2ACI_LE_LMOCHIS_152/hports-INTS_PORT-1-typ-range/rsaccBase
+Grp
+tDn          : uni/infra/funcprof/accportgrp-PG_ACC_152_1.1
+# infra.RsAccBaseGrp
+dn           : uni/infra/accportprof-INTP_2ACI_LE_LMOCHIS_152/hports-INTS_PORT-23-typ-range/rsaccBas
+eGrp
+tDn          : uni/infra/funcprof/accportgrp-PG_ACC_152_1.23
+# infra.RsAccBaseGrp
+dn           : uni/infra/accportprof-INTP_2ACI_LE_LMOCHIS_152/hports-INTS_PORT-47-typ-range/rsaccBas
+eGrp
+tDn          : uni/infra/funcprof/accportgrp-PG_ACC_152_1.47
+# infra.RsAccBaseGrp
+dn           : uni/infra/accportprof-INTP_2ACI_LE_LMOCHIS_152/hports-INTS_PORT-4-typ-range/rsaccBase
+Grp
+tDn          : uni/infra/funcprof/accportgrp-PG_ACC_152_1.4
+# infra.RsAccBaseGrp
+dn           : uni/infra/accportprof-INTP_2ACI_LE_LMOCHIS_152/hports-INTS_PORT-7-typ-range/rsaccBase
+Grp
+tDn          : uni/infra/funcprof/accportgrp-PG_ACC_152_1.7
+# infra.RsAccBaseGrp
+dn           : uni/infra/accportprof-INTP_2ACI_LE_LMOCHIS_152/hports-INTS_PORT-6-typ-range/rsaccBase
+Grp
+tDn          : uni/infra/funcprof/accportgrp-PG_ACC_152_1.6
+# infra.RsAccBaseGrp
+dn           : uni/infra/accportprof-INTP_2ACI_LE_LMOCHIS_152/hports-INTS_PORT-19-typ-range/rsaccBas
+eGrp
+tDn          : uni/infra/funcprof/accportgrp-PG_ACC_152_1.19
+# infra.RsAccBaseGrp
+dn           : uni/infra/accportprof-INTP_2ACI_LE_LMOCHIS_152/hports-INTS_PORT-20-typ-range/rsaccBas
+eGrp
+tDn          : uni/infra/funcprof/accportgrp-PG_ACC_152_1.20
+# infra.RsAccBaseGrp
+dn           : uni/infra/accportprof-INTP_2ACI_LE_LMOCHIS_152/hports-INTS_PORT-18-typ-range/rsaccBas
+eGrp
+tDn          : uni/infra/funcprof/accportgrp-PG_ACC_152_1.18
+# infra.RsAccBaseGrp
+dn           : uni/infra/accportprof-INTP_2ACI_LE_LMOCHIS_152/hports-INTS_PORT-2-typ-range/rsaccBase
+Grp
+tDn          : uni/infra/funcprof/accportgrp-PG_ACC_152_1.2
+# infra.RsAccBaseGrp
+dn           : uni/infra/accportprof-INTP_2ACI_LE_LMOCHIS_152/hports-INTS_PORT-16-typ-range/rsaccBas
+eGrp
+tDn          : uni/infra/funcprof/accportgrp-PG_ACC_152_1.16
+# infra.RsAccBaseGrp
+dn           : uni/infra/accportprof-INTP_2ACI_LE_LMOCHIS_152/hports-INTS_PORT-46-typ-range/rsaccBas
+eGrp
+tDn          : uni/infra/funcprof/accportgrp-PG_ACC_152_1.46
+# infra.RsAccBaseGrp
+dn           : uni/infra/accportprof-INTP_2ACI_LE_LMOCHIS_152/hports-INTS_PORT-17-typ-range/rsaccBas
+eGrp
+tDn          : uni/infra/funcprof/accportgrp-PG_ACC_152_1.17
+# infra.RsAccBaseGrp
+dn           : uni/infra/accportprof-INTP_2ACI_LE_LMOCHIS_152/hports-INTS_PORT-3-typ-range/rsaccBase
+Grp
+tDn          : uni/infra/funcprof/accportgrp-PG_ACC_152_1.3
+# infra.RsAccBaseGrp
+dn           : uni/infra/accportprof-INTP_2ACI_LE_LMOCHIS_152/hports-INTS_PORT-9-typ-range/rsaccBase
+Grp
+tDn          : uni/infra/funcprof/accportgrp-PG_ACC_152_1.9
+# infra.RsAccBaseGrp
+dn           : uni/infra/accportprof-INTP_2ACI_LE_LMOCHIS_152/hports-INTS_PORT-15-typ-range/rsaccBas
+eGrp
+tDn          : uni/infra/funcprof/accportgrp-PG_ACC_152_1.15
+# infra.RsAccBaseGrp
+dn           : uni/infra/accportprof-INTP_2ACI_LE_LMOCHIS_152/hports-INTS_PORT-5-typ-range/rsaccBase
+Grp
+tDn          : uni/infra/funcprof/accportgrp-PG_ACC_152_1.5
+# infra.RsAccBaseGrp
+dn           : uni/infra/accportprof-INTP_2ACI_LE_LMOCHIS_152/hports-INTS_PORT-12-typ-range/rsaccBas
+eGrp
+tDn          : uni/infra/funcprof/accportgrp-PG_ACC_152_1.12
+# infra.RsAccBaseGrp
+dn           : uni/infra/accportprof-INTP_2ACI_LE_LMOCHIS_152/hports-INTS_PORT-22-typ-range/rsaccBas
+eGrp
+tDn          : uni/infra/funcprof/accportgrp-PG_ACC_152_1.22
+# infra.RsAccBaseGrp
+dn           : uni/infra/accportprof-INTP_2ACI_LE_LMOCHIS_152/hports-INTS_PORT-26-typ-range/rsaccBas
+eGrp
+tDn          : uni/infra/funcprof/accportgrp-PG_ACC_152_1.26
+# infra.RsAccBaseGrp
+dn           : uni/infra/accportprof-INTP_2ACI_LE_LMOCHIS_152/hports-INTS_PORT-24-typ-range/rsaccBas
+eGrp
+tDn          : uni/infra/funcprof/accportgrp-PG_ACC_152_1.24
+# infra.RsAccBaseGrp
+dn           : uni/infra/accportprof-INTP_2ACI_LE_LMOCHIS_152/hports-INTS_PORT-14-typ-range/rsaccBas
+eGrp
+tDn          : uni/infra/funcprof/accportgrp-PG_ACC_152_1.14
+# infra.RsAccBaseGrp
+dn           : uni/infra/accportprof-INTP_2ACI_LE_LMOCHIS_152/hports-INTS_PORT-48-typ-range/rsaccBas
+eGrp
+tDn          : uni/infra/funcprof/accportgrp-PG_ACC_152_1.48
+# infra.RsAccBaseGrp
+dn           : uni/infra/accportprof-INTP_2ACI_LE_LMOCHIS_152/hports-NTS_PORT-27-typ-range/rsaccBase
+Grp
+tDn          : uni/infra/funcprof/accportgrp-PG_ACC_152_1.27
+# infra.RsAccBaseGrp
+dn           : uni/infra/accportprof-INTP_2ACI_LE_LMOCHIS_152/hports-INTS_PORT-21-typ-range/rsaccBas
+eGrp
+tDn          : uni/infra/funcprof/accportgrp-PG_ACC_152_1.21
+# infra.RsAccBaseGrp
+dn           : uni/infra/accportprof-INTP_2ACI_LO_LMOCHIS_101/hports-INTS_PORT-44-typ-range/rsaccBas
+eGrp
+tDn          : uni/infra/funcprof/accbundle-PG_PC_101_L3_RMAC1
+# infra.RsAccBaseGrp
+dn           : uni/infra/accportprof-INTP_2ACI_LO_LMOCHIS_101/hports-INTS_PORT-6-typ-range/rsaccBase
+Grp
+tDn          : uni/infra/funcprof/accportgrp-PG_ACC_101_1.6
+# infra.RsAccBaseGrp
+dn           : uni/infra/accportprof-INTP_2ACI_LO_LMOCHIS_101/hports-INTS_PORT-11-typ-range/rsaccBas
+eGrp
+tDn          : uni/infra/funcprof/accportgrp-PG_ACC_101_1.11
+# infra.RsAccBaseGrp
+dn           : uni/infra/accportprof-INTP_2ACI_LO_LMOCHIS_101/hports-INTS_PORT-45-typ-range/rsaccBas
+eGrp
+tDn          : uni/infra/funcprof/accbundle-PG_PC_101_L3_RMAC1
+# infra.RsAccBaseGrp
+dn           : uni/infra/accportprof-INTP_2ACI_LO_LMOCHIS_101/hports-INTS_PORT-39-typ-range/rsaccBas
+eGrp
+tDn          : uni/infra/funcprof/accbundle-PG_PC_L2_RMAC1
+# infra.RsAccBaseGrp
+dn           : uni/infra/accportprof-INTP_2ACI_LO_LMOCHIS_101/hports-INTS_PORT-9-typ-range/rsaccBase
+Grp
+tDn          : uni/infra/funcprof/accportgrp-PG_ACC_101_1.9
+# infra.RsAccBaseGrp
+dn           : uni/infra/accportprof-INTP_2ACI_LO_LMOCHIS_101/hports-INTS_PORT-48-typ-range/rsaccBas
+eGrp
+tDn          : uni/infra/funcprof/accportgrp-PG_ACC_101_1.48
+# infra.RsAccBaseGrp
+dn           : uni/infra/accportprof-INTP_2ACI_LO_LMOCHIS_101/hports-INTS_PORT-37-typ-range/rsaccBas
+eGrp
+tDn          : uni/infra/funcprof/accportgrp-PG_ACC_L2_SMAC1
+# infra.RsAccBaseGrp
+dn           : uni/infra/accportprof-INTP_2ACI_LO_LMOCHIS_101/hports-INTS_PORT-47-typ-range/rsaccBas
+eGrp
+tDn          : uni/infra/funcprof/accportgrp-PG_ACC_101_1.47
+# infra.RsAccBaseGrp
+dn           : uni/infra/accportprof-INTP_2ACI_LO_LMOCHIS_101/hports-INTS_PORT-40-typ-range/rsaccBas
+eGrp
+tDn          : uni/infra/funcprof/accportgrp-PG_ACC_101_1.40
+# infra.RsAccBaseGrp
+dn           : uni/infra/accportprof-INTP_2ACI_LO_LMOCHIS_101/hports-INTS_PORT-10-typ-range/rsaccBas
+eGrp
+tDn          : uni/infra/funcprof/accportgrp-PG_ACC_101_1.10
+# infra.RsAccBaseGrp
+dn           : uni/infra/accportprof-INTP_2ACI_LO_LMOCHIS_101/hports-INTS_PORT-46-typ-range/rsaccBas
+eGrp
+tDn          : uni/infra/funcprof/accportgrp-PG_ACC_101_1.46
+# infra.RsAccBaseGrp
+dn           : uni/infra/accportprof-INTP_2ACI_LO_LMOCHIS_101/hports-INTS_PORT-4-typ-range/rsaccBase
+Grp
+tDn          : uni/infra/funcprof/accportgrp-PG_ACC_101_1.4
+# infra.RsAccBaseGrp
+dn           : uni/infra/accportprof-INTP_2ACI_LO_LMOCHIS_101/hports-INTS_PORT-12-typ-range/rsaccBas
+eGrp
+tDn          : uni/infra/funcprof/accportgrp-PG_ACC_102_1.12
+# infra.RsAccBaseGrp
+dn           : uni/infra/accportprof-INTP_2ACI_LO_LMOCHIS_102/hports-INTS_PORT-9-typ-range/rsaccBase
+Grp
+tDn          : uni/infra/funcprof/accportgrp-PG_ACC_102_1.9
+# infra.RsAccBaseGrp
+dn           : uni/infra/accportprof-INTP_2ACI_LO_LMOCHIS_102/hports-INTS_PORT-39-typ-range/rsaccBas
+eGrp
+tDn          : uni/infra/funcprof/accbundle-PG_PC_L2_RMAC2
+# infra.RsAccBaseGrp
+dn           : uni/infra/accportprof-INTP_2ACI_LO_LMOCHIS_102/hports-INTS_PORT-6-typ-range/rsaccBase
+Grp
+tDn          : uni/infra/funcprof/accportgrp-PG_ACC_102_1.6
+# infra.RsAccBaseGrp
+dn           : uni/infra/accportprof-INTP_2ACI_LO_LMOCHIS_102/hports-INTS_PORT-7-typ-range/rsaccBase
+Grp
+tDn          : uni/infra/funcprof/accportgrp-PG_ACC_102_1.7
+# infra.RsAccBaseGrp
+dn           : uni/infra/accportprof-INTP_2ACI_LO_LMOCHIS_102/hports-INTS_PORT-45-typ-range/rsaccBas
+eGrp
+tDn          : uni/infra/funcprof/accbundle-PG_PC_102_L3_RMAC2
+# infra.RsAccBaseGrp
+dn           : uni/infra/accportprof-INTP_2ACI_LO_LMOCHIS_102/hports-INTS_PORT-40-typ-range/rsaccBas
+eGrp
+tDn          : uni/infra/funcprof/accportgrp-PG_ACC_102_1.40
+# infra.RsAccBaseGrp
+dn           : uni/infra/accportprof-INTP_2ACI_LO_LMOCHIS_102/hports-INTS_PORT-5-typ-range/rsaccBase
+Grp
+tDn          : uni/infra/funcprof/accportgrp-PG_ACC_102_1.5
+# infra.RsAccBaseGrp
+dn           : uni/infra/accportprof-INTP_2ACI_LO_LMOCHIS_102/hports-INTS_PORT-48-typ-range/rsaccBas
+eGrp
+tDn          : uni/infra/funcprof/accportgrp-PG_ACC_102_1.48
+# infra.RsAccBaseGrp
+dn           : uni/infra/accportprof-INTP_2ACI_LO_LMOCHIS_102/hports-INTS_PORT-37-typ-range/rsaccBas
+eGrp
+tDn          : uni/infra/funcprof/accportgrp-PG_ACC_L2_SMAC2
+# infra.RsAccBaseGrp
+dn           : uni/infra/accportprof-INTP_2ACI_LO_LMOCHIS_101/hports-INTS_PORT-8-typ-range/rsaccBase
+Grp
+tDn          : uni/infra/funcprof/accportgrp-PG_ACC_101_1.8
+# infra.RsAccBaseGrp
+dn           : uni/infra/accportprof-INTP_2ACI_LO_LMOCHIS_102/hports-INTS_PORT-47-typ-range/rsaccBas
+eGrp
+tDn          : uni/infra/funcprof/accportgrp-PG_ACC_102_1.47
+# infra.RsAccBaseGrp
+dn           : uni/infra/accportprof-INTP_2ACI_LO_LMOCHIS_102/hports-INTS_PORT-10-typ-range/rsaccBas
+eGrp
+tDn          : uni/infra/funcprof/accportgrp-PG_ACC_102_1.10
+# infra.RsAccBaseGrp
+dn           : uni/infra/accportprof-INTP_2ACI_LO_LMOCHIS_102/hports-INTS_PORT-46-typ-range/rsaccBas
+eGrp
+tDn          : uni/infra/funcprof/accportgrp-PG_ACC_102_1.46
+# infra.RsAccBaseGrp
+dn           : uni/infra/accportprof-INTP_2ACI_LO_LMOCHIS_102/hports-INTS_PORT-11-typ-range/rsaccBas
+eGrp
+tDn          : uni/infra/funcprof/accportgrp-PG_ACC_102_1.11
+# infra.RsAccBaseGrp
+dn           : uni/infra/accportprof-INTP_2ACI_LO_LMOCHIS_102/hports-INTS_PORT-44-typ-range/rsaccBas
+eGrp
+tDn          : uni/infra/funcprof/accbundle-PG_PC_102_L3_RMAC2
+# infra.RsAccBaseGrp
+dn           : uni/infra/accportprof-INTP_2ACI_LO_LMOCHIS_102/hports-INTS_PORT-1-typ-range/rsaccBase
+Grp
+tDn          : uni/infra/funcprof/accportgrp-PG_ACC_102_1.1
+# infra.RsAccBaseGrp
+dn           : uni/infra/accportprof-INTP_2ACI_LO_LMOCHIS_102/hports-INTS_PORT-4-typ-range/rsaccBase
+Grp
+tDn          : uni/infra/funcprof/accportgrp-PG_ACC_102_1.4
+# infra.RsAccBaseGrp
+dn           : uni/infra/accportprof-INTP_2ACI_LO_LMOCHIS_102/hports-INTS_PORT-8-typ-range/rsaccBase
+Grp
+tDn          : uni/infra/funcprof/accportgrp-PG_ACC_102_1.8
+# infra.RsAccBaseGrp
+dn           : uni/infra/accportprof-INTP_2ACI_LO_LMOCHIS_102/hports-INTS_PORT-2-typ-range/rsaccBase
+Grp
+tDn          : uni/infra/funcprof/accportgrp-PG_ACC_102_1.2
+# infra.RsAccBaseGrp
+dn           : uni/infra/accportprof-INTP_2ACI_LE_LMOCHIS_151/hports-INTS_PORT-20-typ-range/rsaccBas
+eGrp
+tDn          : uni/infra/funcprof/accportgrp-PG_ACC_151_1.20
+# infra.RsAccBaseGrp
+dn           : uni/infra/accportprof-INTP_2ACI_LE_LMOCHIS_151/hports-INTS_PORT-15-typ-range/rsaccBas
+eGrp
+tDn          : uni/infra/funcprof/accportgrp-PG_ACC_151_1.15
+# infra.RsAccBaseGrp
+dn           : uni/infra/accportprof-INTP_2ACI_LE_LMOCHIS_151/hports-INTS_PORT-8-typ-range/rsaccBase
+Grp
+tDn          : uni/infra/funcprof/accportgrp-PG_ACC_151_1.8
+# infra.RsAccBaseGrp
+dn           : uni/infra/accportprof-INTP_2ACI_LE_LMOCHIS_151/hports-INTS_PORT-7-typ-range/rsaccBase
+Grp
+tDn          : uni/infra/funcprof/accportgrp-PG_ACC_151_1.7
+# infra.RsAccBaseGrp
+dn           : uni/infra/accportprof-INTP_2ACI_LE_LMOCHIS_151/hports-INTS_PORT-6-typ-range/rsaccBase
+Grp
+tDn          : uni/infra/funcprof/accportgrp-PG_ACC_151_1.6
+# infra.RsAccBaseGrp
+dn           : uni/infra/accportprof-INTP_2ACI_LE_LMOCHIS_151/hports-INTS_PORT-3-typ-range/rsaccBase
+Grp
+tDn          : uni/infra/funcprof/accportgrp-PG_ACC_151_1.3
+# infra.RsAccBaseGrp
+dn           : uni/infra/accportprof-INTP_2ACI_LE_LMOCHIS_151/hports-INTS_PORT-48-typ-range/rsaccBas
+eGrp
+tDn          : uni/infra/funcprof/accportgrp-PG_ACC_151_1.48
+2ACIAPICLMOCHIS01# moquery -c l3extRsPathL3OutAtt | egrep -w "#|dn"
+# l3ext.RsPathL3OutAtt
+dn               : uni/tn-TELCEL_TELCO_NETWORK/out-L3OUT_UG0-1112-0050/lnodep-NP_LF_101/lifp-INTP_LF
+_101_SI0700/rspathL3OutAtt-[topology/pod-1/paths-101/pathep-[eth1/10]]
+# l3ext.RsPathL3OutAtt
+dn               : uni/tn-TELCEL_TELCO_NETWORK/out-L3OUT_UG0-1112-0050/lnodep-NP_LF_101/lifp-INTP_LF
+_101_SI5872/rspathL3OutAtt-[topology/pod-1/paths-101/pathep-[eth1/10]]
+# l3ext.RsPathL3OutAtt
+dn               : uni/tn-TELCEL_TELCO_NETWORK/out-L3OUT_UG0-1603-0012/lnodep-NP_LF_102/lifp-INTP_LF
+_102_SI4222/rspathL3OutAtt-[topology/pod-1/paths-102/pathep-[eth1/5]]
+# l3ext.RsPathL3OutAtt
+dn               : uni/tn-TELCEL_TELCO_NETWORK/out-L3OUT_UG0-1610-0007/lnodep-NP_LF_102/lifp-INTP_LF
+_102_SI1833/rspathL3OutAtt-[topology/pod-1/paths-102/pathep-[eth1/6]]
+# l3ext.RsPathL3OutAtt
+dn               : uni/tn-TELCEL_TELCO_NETWORK/out-L3OUT_UG0-1112-0050/lnodep-NP_LF_101/lifp-INTP_LF
+_101_SI1947/rspathL3OutAtt-[topology/pod-1/paths-101/pathep-[eth1/10]]
+# l3ext.RsPathL3OutAtt
+dn               : uni/tn-TELCEL_TELCO_NETWORK/out-L3OUT_UG0-1610-0007/lnodep-NP_LF_102/lifp-INTP_LF
+_102_SI1334/rspathL3OutAtt-[topology/pod-1/paths-102/pathep-[eth1/6]]
+# l3ext.RsPathL3OutAtt
+dn               : uni/tn-TELCEL_TELCO_NETWORK/out-L3OUT_ABIS_2G_IP_BSC_ERICCSON/lnodep-NP_LF_101_10
+2/lifp-INTP_LF_101/rspathL3OutAtt-[topology/pod-1/paths-101/pathep-[eth1/4]]
+# l3ext.RsPathL3OutAtt
+dn               : uni/tn-TELCEL_TELCO_NETWORK/out-L3OUT_ABIS_2G_IP_BSC_ERICCSON/lnodep-NP_LF_101_10
+2/lifp-INTP_LF_102/rspathL3OutAtt-[topology/pod-1/paths-102/pathep-[eth1/2]]
+# l3ext.RsPathL3OutAtt
+dn               : uni/tn-TELCEL_TELCO_NETWORK/out-L3OUT_UG0-1610-0007/lnodep-NP_LF_102/lifp-INTP_LF
+_102_SI0499/rspathL3OutAtt-[topology/pod-1/paths-102/pathep-[eth1/6]]
+# l3ext.RsPathL3OutAtt
+dn               : uni/tn-TELCEL_TELCO_NETWORK/out-L3OUT_IUB_US_EVO_LMOEV2/lnodep-NP_LF_101_102/lifp
+-INTP_LF_101/rspathL3OutAtt-[topology/pod-1/paths-101/pathep-[eth1/9]]
+# l3ext.RsPathL3OutAtt
+dn               : uni/tn-TELCEL_TELCO_NETWORK/out-L3OUT_IUB_US_EVO_LMOEV2/lnodep-NP_LF_101_102/lifp
+-INTP_LF_102/rspathL3OutAtt-[topology/pod-1/paths-102/pathep-[eth1/8]]
+# l3ext.RsPathL3OutAtt
+dn               : uni/tn-TELCEL_TELCO_NETWORK/out-L3OUT_UG0-1610-0007/lnodep-NP_LF_102/lifp-INTP_LF
+_102_SI0509/rspathL3OutAtt-[topology/pod-1/paths-102/pathep-[eth1/6]]
+# l3ext.RsPathL3OutAtt
+dn               : uni/tn-TELCEL_TELCO_NETWORK/out-L3OUT_UG0-1603-0012/lnodep-NP_LF_102/lifp-INTP_LF
+_102_SI0801/rspathL3OutAtt-[topology/pod-1/paths-102/pathep-[eth1/5]]
+# l3ext.RsPathL3OutAtt
+dn               : uni/tn-TELCEL_TELCO_NETWORK/out-L3OUT_UG0-1603-0012/lnodep-NP_LF_102/lifp-INTP_LF
+_102_SI7014/rspathL3OutAtt-[topology/pod-1/paths-102/pathep-[eth1/5]]
+# l3ext.RsPathL3OutAtt
+dn               : uni/tn-TELCEL_TELCO_NETWORK/out-L3OUT_TELCEL_IPCORP_RMAC/lnodep-NP_LF_102/lifp-IN
+TP_LF_102/rspathL3OutAtt-[topology/pod-1/paths-102/pathep-[PG_PC_102_L3_RMAC2]]
+# l3ext.RsPathL3OutAtt
+dn               : uni/tn-TELCEL_TELCO_NETWORK/out-L3OUT_UG0-1208-0006/lnodep-NP_LF_102/lifp-INTP_LF
+_102_SI4217/rspathL3OutAtt-[topology/pod-1/paths-102/pathep-[eth1/9]]
+# l3ext.RsPathL3OutAtt
+dn               : uni/tn-TELCEL_TELCO_NETWORK/out-L3OUT_UG0-1112-0050/lnodep-NP_LF_101/lifp-INTP_LF
+_101_SI7000/rspathL3OutAtt-[topology/pod-1/paths-101/pathep-[eth1/10]]
+# l3ext.RsPathL3OutAtt
+dn               : uni/tn-TELCEL_TELCO_NETWORK/out-L3OUT_UG0-1610-0007/lnodep-NP_LF_102/lifp-INTP_LF
+_102_SI0472/rspathL3OutAtt-[topology/pod-1/paths-102/pathep-[eth1/6]]
+# l3ext.RsPathL3OutAtt
+dn               : uni/tn-TELCEL_TELCO_NETWORK/out-L3OUT_UG0-1112-0136/lnodep-NP_LF_101/lifp-INTP_LF
+_101_SI6130/rspathL3OutAtt-[topology/pod-1/paths-101/pathep-[eth1/11]]
+# l3ext.RsPathL3OutAtt
+dn               : uni/tn-mgmt/out-L3OUT_GESTION_INB_RMAC2/lnodep-NP_GESTION_INB/lifp-INTP_102_GESTI
+ON_INB/rspathL3OutAtt-[topology/pod-1/paths-102/pathep-[eth1/40]]
+# l3ext.RsPathL3OutAtt
+dn               : uni/tn-mgmt/out-L3OUT_GESTION_INB_RMAC1/lnodep-NP_GESTION_INB/lifp-INTP_101_GESTI
+ON_INB/rspathL3OutAtt-[topology/pod-1/paths-101/pathep-[eth1/40]]
+# l3ext.RsPathL3OutAtt
+dn               : uni/tn-TELCEL_TELCO_NETWORK/out-L3OUT_UG0-1112-0136/lnodep-NP_LF_101/lifp-INTP_LF
+_101_SI5172/rspathL3OutAtt-[topology/pod-1/paths-101/pathep-[eth1/11]]
+# l3ext.RsPathL3OutAtt
+dn               : uni/tn-TELCEL_TELCO_NETWORK/out-L3OUT_UG0-1112-0136/lnodep-NP_LF_101/lifp-INTP_LF
+_101_SI2154/rspathL3OutAtt-[topology/pod-1/paths-101/pathep-[eth1/11]]
+# l3ext.RsPathL3OutAtt
+dn               : uni/tn-TELCEL_TELCO_NETWORK/out-L3OUT_UG0-1112-0136/lnodep-NP_LF_101/lifp-INTP_LF
+_101_SI6128/rspathL3OutAtt-[topology/pod-1/paths-101/pathep-[eth1/11]]
+# l3ext.RsPathL3OutAtt
+dn               : uni/tn-TELCEL_TELCO_NETWORK/out-L3OUT_UG0-1112-0136/lnodep-NP_LF_101/lifp-INTP_LF
+_101_SI2157/rspathL3OutAtt-[topology/pod-1/paths-101/pathep-[eth1/11]]
+# l3ext.RsPathL3OutAtt
+dn               : uni/tn-TELCEL_TELCO_NETWORK/out-L3OUT_UG0-1610-0007/lnodep-NP_LF_102/lifp-INTP_LF
+_102_SI0471/rspathL3OutAtt-[topology/pod-1/paths-102/pathep-[eth1/6]]
+# l3ext.RsPathL3OutAtt
+dn               : uni/tn-TELCEL_TELCO_NETWORK/out-L3OUT_UG0-1610-0007/lnodep-NP_LF_102/lifp-INTP_LF
+_102_SI0104/rspathL3OutAtt-[topology/pod-1/paths-102/pathep-[eth1/6]]
+# l3ext.RsPathL3OutAtt
+dn               : uni/tn-TELCEL_TELCO_NETWORK/out-L3OUT_UG0-1610-0007/lnodep-NP_LF_102/lifp-INTP_LF
+_102_SI6143/rspathL3OutAtt-[topology/pod-1/paths-102/pathep-[eth1/6]]
+# l3ext.RsPathL3OutAtt
+dn               : uni/tn-TELCEL_TELCO_NETWORK/out-L3OUT_UG0-1610-0007/lnodep-NP_LF_102/lifp-INTP_LF
+_102_SI6074/rspathL3OutAtt-[topology/pod-1/paths-102/pathep-[eth1/6]]
+# l3ext.RsPathL3OutAtt
+dn               : uni/tn-TELCEL_TELCO_NETWORK/out-L3OUT_UG0-1610-0007/lnodep-NP_LF_102/lifp-INTP_LF
+_102_SI0501/rspathL3OutAtt-[topology/pod-1/paths-102/pathep-[eth1/6]]
+# l3ext.RsPathL3OutAtt
+dn               : uni/tn-TELCEL_TELCO_NETWORK/out-L3OUT_UG0-1610-0007/lnodep-NP_LF_102/lifp-INTP_LF
+_102_SI6075/rspathL3OutAtt-[topology/pod-1/paths-102/pathep-[eth1/6]]
+# l3ext.RsPathL3OutAtt
+dn               : uni/tn-TELCEL_TELCO_NETWORK/out-L3OUT_UG0-1610-0007/lnodep-NP_LF_102/lifp-INTP_LF
+_102_SI0817/rspathL3OutAtt-[topology/pod-1/paths-102/pathep-[eth1/6]]
+# l3ext.RsPathL3OutAtt
+dn               : uni/tn-TELCEL_TELCO_NETWORK/out-L3OUT_UG0-1610-0007/lnodep-NP_LF_102/lifp-INTP_LF
+_102_SI0468/rspathL3OutAtt-[topology/pod-1/paths-102/pathep-[eth1/6]]
+# l3ext.RsPathL3OutAtt
+dn               : uni/tn-TELCEL_TELCO_NETWORK/out-L3OUT_UG0-1610-0007/lnodep-NP_LF_102/lifp-INTP_LF
+_102_SI2520/rspathL3OutAtt-[topology/pod-1/paths-102/pathep-[eth1/6]]
+# l3ext.RsPathL3OutAtt
+dn               : uni/tn-TELCEL_TELCO_NETWORK/out-L3OUT_INT_SERVIDORES_RMAC/lnodep-NP_LF_101/lifp-I
+NTP_LF_101/rspathL3OutAtt-[topology/pod-1/paths-101/pathep-[PG_PC_101_L3_RMAC1]]
+# l3ext.RsPathL3OutAtt
+dn               : uni/tn-TELCEL_TELCO_NETWORK/out-L3OUT_INT_SERVIDORES_RMAC/lnodep-NP_LF_102/lifp-I
+NTP_LF_102/rspathL3OutAtt-[topology/pod-1/paths-102/pathep-[PG_PC_102_L3_RMAC2]]
+# l3ext.RsPathL3OutAtt
+dn               : uni/tn-TELCEL_TELCO_NETWORK/out-L3OUT_WIFI_OFFLOAD-R2_RMAC/lnodep-NP_LF_101/lifp-
+INTP_LF_101/rspathL3OutAtt-[topology/pod-1/paths-101/pathep-[PG_PC_101_L3_RMAC1]]
+# l3ext.RsPathL3OutAtt
+dn               : uni/tn-TELCEL_TELCO_NETWORK/out-L3OUT_WIFI_OFFLOAD-R2_RMAC/lnodep-NP_LF_102/lifp-
+INTP_LF_102/rspathL3OutAtt-[topology/pod-1/paths-102/pathep-[PG_PC_102_L3_RMAC2]]
+# l3ext.RsPathL3OutAtt
+dn               : uni/tn-TELCEL_TELCO_NETWORK/out-L3OUT_IUB_US_RMAC/lnodep-NP_LF_101/lifp-INTP_LF_1
+01/rspathL3OutAtt-[topology/pod-1/paths-101/pathep-[PG_PC_101_L3_RMAC1]]
+# l3ext.RsPathL3OutAtt
+dn               : uni/tn-TELCEL_TELCO_NETWORK/out-L3OUT_IUB_US_RMAC/lnodep-NP_LF_102/lifp-INTP_LF_1
+02/rspathL3OutAtt-[topology/pod-1/paths-102/pathep-[PG_PC_102_L3_RMAC2]]
+# l3ext.RsPathL3OutAtt
+dn               : uni/tn-TELCEL_TELCO_NETWORK/out-L3OUT_UG0-1408-0024/lnodep-NP_LF_102/lifp-INTP_LF
+_102_SI3492/rspathL3OutAtt-[topology/pod-1/paths-102/pathep-[eth1/10]]
+# l3ext.RsPathL3OutAtt
+dn               : uni/tn-TELCEL_TELCO_NETWORK/out-L3OUT_UG0-1408-0024/lnodep-NP_LF_102/lifp-INTP_LF
+_102_SI3496/rspathL3OutAtt-[topology/pod-1/paths-102/pathep-[eth1/10]]
+# l3ext.RsPathL3OutAtt
+dn               : uni/tn-TELCEL_TELCO_NETWORK/out-L3OUT_UG0-1408-0024/lnodep-NP_LF_102/lifp-INTP_LF
+_102_SI3493/rspathL3OutAtt-[topology/pod-1/paths-102/pathep-[eth1/10]]
+# l3ext.RsPathL3OutAtt
+dn               : uni/tn-TELCEL_TELCO_NETWORK/out-L3OUT_UG0-1408-0024/lnodep-NP_LF_102/lifp-INTP_LF
+_102_SI4207/rspathL3OutAtt-[topology/pod-1/paths-102/pathep-[eth1/10]]
+# l3ext.RsPathL3OutAtt
+dn               : uni/tn-TELCEL_TELCO_NETWORK/out-L3OUT_UG0-1408-0024/lnodep-NP_LF_102/lifp-INTP_LF
+_102_SI4250/rspathL3OutAtt-[topology/pod-1/paths-102/pathep-[eth1/10]]
+# l3ext.RsPathL3OutAtt
+dn               : uni/tn-TELCEL_TELCO_NETWORK/out-L3OUT_UG0-1408-0024/lnodep-NP_LF_102/lifp-INTP_LF
+_102_SI1335/rspathL3OutAtt-[topology/pod-1/paths-102/pathep-[eth1/10]]
+# l3ext.RsPathL3OutAtt
+dn               : uni/tn-TELCEL_TELCO_NETWORK/out-L3OUT_UG0-1408-0024/lnodep-NP_LF_102/lifp-INTP_LF
+_102_254192/rspathL3OutAtt-[topology/pod-1/paths-102/pathep-[eth1/10]]
+# l3ext.RsPathL3OutAtt
+dn               : uni/tn-TELCEL_TELCO_NETWORK/out-L3OUT_UG0-1408-0024/lnodep-NP_LF_102/lifp-INTP_LF
+_102_SI3545/rspathL3OutAtt-[topology/pod-1/paths-102/pathep-[eth1/10]]
+# l3ext.RsPathL3OutAtt
+dn               : uni/tn-TELCEL_TELCO_NETWORK/out-L3OUT_UG0-1803-0011/lnodep-NP_LF_102/lifp-INTP_LF
+_102_SI1947/rspathL3OutAtt-[topology/pod-1/paths-102/pathep-[eth1/4]]
+# l3ext.RsPathL3OutAtt
+dn               : uni/tn-TELCEL_TELCO_NETWORK/out-L3OUT_IUB_US_EVO_LMOEV1/lnodep-NP_LF_101_102/lifp
+-INTP_LF_101/rspathL3OutAtt-[topology/pod-1/paths-101/pathep-[eth1/8]]
+# l3ext.RsPathL3OutAtt
+dn               : uni/tn-TELCEL_TELCO_NETWORK/out-L3OUT_IUB_US_EVO_LMOEV1/lnodep-NP_LF_101_102/lifp
+-INTP_LF_102/rspathL3OutAtt-[topology/pod-1/paths-102/pathep-[eth1/7]]
+# l3ext.RsPathL3OutAtt
+dn               : uni/tn-TELCEL_TELCO_NETWORK/out-L3OUT_TELCEL_IPCORP_RMAC/lnodep-NP_LF_101/lifp-IN
+TP_LF_101/rspathL3OutAtt-[topology/pod-1/paths-101/pathep-[PG_PC_101_L3_RMAC1]]
+# l3ext.RsPathL3OutAtt
+dn               : uni/tn-TELCEL_TELCO_NETWORK/out-L3OUT_UG0-1603-0012/lnodep-NP_LF_102/lifp-INTP_LF
+_102_SI4966/rspathL3OutAtt-[topology/pod-1/paths-102/pathep-[eth1/5]]
+# l3ext.RsPathL3OutAtt
+dn               : uni/tn-TELCEL_TELCO_NETWORK/out-L3OUT_UG0-1603-0012/lnodep-NP_LF_102/lifp-INTP_LF
+_102_SI4216/rspathL3OutAtt-[topology/pod-1/paths-102/pathep-[eth1/5]]
+# l3ext.RsPathL3OutAtt
+dn               : uni/tn-TELCEL_TELCO_NETWORK/out-L3OUT_UG0-1603-0012/lnodep-NP_LF_102/lifp-INTP_LF
+_102_SI7008/rspathL3OutAtt-[topology/pod-1/paths-102/pathep-[eth1/5]]
+# l3ext.RsPathL3OutAtt
+dn               : uni/tn-TELCEL_TELCO_NETWORK/out-L3OUT_UG0-1603-0012/lnodep-NP_LF_102/lifp-INTP_LF
+_102_SI4223/rspathL3OutAtt-[topology/pod-1/paths-102/pathep-[eth1/5]]
+# l3ext.RsPathL3OutAtt
+dn               : uni/tn-TELCEL_TELCO_NETWORK/out-L3OUT_UG0-1603-0012/lnodep-NP_LF_102/lifp-INTP_LF
+_102_SI2547/rspathL3OutAtt-[topology/pod-1/paths-102/pathep-[eth1/5]]
+# l3ext.RsPathL3OutAtt
+dn               : uni/tn-TELCEL_TELCO_NETWORK/out-L3OUT_UG0-1603-0012/lnodep-NP_LF_102/lifp-INTP_LF
+_102_SI4968/rspathL3OutAtt-[topology/pod-1/paths-102/pathep-[eth1/5]]
+# l3ext.RsPathL3OutAtt
+dn               : uni/tn-TELCEL_TELCO_NETWORK/out-L3OUT_UG0-1603-0012/lnodep-NP_LF_102/lifp-INTP_LF
+_102_254516/rspathL3OutAtt-[topology/pod-1/paths-102/pathep-[eth1/5]]
+# l3ext.RsPathL3OutAtt
+dn               : uni/tn-TELCEL_TELCO_NETWORK/out-L3OUT_UG0-1603-0012/lnodep-NP_LF_102/lifp-INTP_LF
+_102_SI4982/rspathL3OutAtt-[topology/pod-1/paths-102/pathep-[eth1/5]]
+# l3ext.RsPathL3OutAtt
+dn               : uni/tn-TELCEL_TELCO_NETWORK/out-L3OUT_UG0-1603-0012/lnodep-NP_LF_102/lifp-INTP_LF
+_102_SI0816/rspathL3OutAtt-[topology/pod-1/paths-102/pathep-[eth1/5]]
+# l3ext.RsPathL3OutAtt
+dn               : uni/tn-TELCEL_TELCO_NETWORK/out-L3OUT_UG0-1603-0012/lnodep-NP_LF_102/lifp-INTP_LF
+_102_SI4457/rspathL3OutAtt-[topology/pod-1/paths-102/pathep-[eth1/5]]
+# l3ext.RsPathL3OutAtt
+dn               : uni/tn-TELCEL_TELCO_NETWORK/out-L3OUT_UG0-1603-0012/lnodep-NP_LF_102/lifp-INTP_LF
+_102_SI0813/rspathL3OutAtt-[topology/pod-1/paths-102/pathep-[eth1/5]]
+# l3ext.RsPathL3OutAtt
+dn               : uni/tn-TELCEL_TELCO_NETWORK/out-L3OUT_ABIS_2G_IP_RMAC/lnodep-NP_LF_101/lifp-INTP_
+LF_101/rspathL3OutAtt-[topology/pod-1/paths-101/pathep-[PG_PC_101_L3_RMAC1]]
+# l3ext.RsPathL3OutAtt
+dn               : uni/tn-TELCEL_TELCO_NETWORK/out-L3OUT_ABIS_2G_IP_RMAC/lnodep-NP_LF_102/lifp-INTP_
+LF_102/rspathL3OutAtt-[topology/pod-1/paths-102/pathep-[PG_PC_102_L3_RMAC2]]
+# l3ext.RsPathL3OutAtt
+dn               : uni/tn-TELCEL_TELCO_NETWORK/out-L3OUT_RED_GPRS_GN_RMAC/lnodep-NP_LF_101/lifp-INTP
+_LF_101/rspathL3OutAtt-[topology/pod-1/paths-101/pathep-[PG_PC_101_L3_RMAC1]]
+# l3ext.RsPathL3OutAtt
+dn               : uni/tn-TELCEL_TELCO_NETWORK/out-L3OUT_RED_GPRS_GN_RMAC/lnodep-NP_LF_102/lifp-INTP
+_LF_102/rspathL3OutAtt-[topology/pod-1/paths-102/pathep-[PG_PC_102_L3_RMAC2]]
+# l3ext.RsPathL3OutAtt
+dn               : uni/tn-TELCEL_TELCO_NETWORK/out-L3OUT_UG0-1208-0006/lnodep-NP_LF_102/lifp-INTP_LF
+_102_SI0087/rspathL3OutAtt-[topology/pod-1/paths-102/pathep-[eth1/9]]
+# l3ext.RsPathL3OutAtt
+dn               : uni/tn-TELCEL_TELCO_NETWORK/out-L3OUT_UG0-1208-0006/lnodep-NP_LF_102/lifp-INTP_LF
+_102_SI2161/rspathL3OutAtt-[topology/pod-1/paths-102/pathep-[eth1/9]]
+# l3ext.RsPathL3OutAtt
+dn               : uni/tn-TELCEL_TELCO_NETWORK/out-L3OUT_UG0-1208-0006/lnodep-NP_LF_102/lifp-INTP_LF
+_102_SI2740/rspathL3OutAtt-[topology/pod-1/paths-102/pathep-[eth1/9]]
+# l3ext.RsPathL3OutAtt
+dn               : uni/tn-TELCEL_TELCO_NETWORK/out-L3OUT_UG0-1208-0006/lnodep-NP_LF_102/lifp-INTP_LF
+_102_SI3986/rspathL3OutAtt-[topology/pod-1/paths-102/pathep-[eth1/9]]
+# l3ext.RsPathL3OutAtt
+dn               : uni/tn-TELCEL_TELCO_NETWORK/out-L3OUT_UG0-1408-0024/lnodep-NP_LF_102/lifp-INTP_LF
+_102_SI7002/rspathL3OutAtt-[topology/pod-1/paths-102/pathep-[eth1/10]]
+# l3ext.RsPathL3OutAtt
+dn               : uni/tn-TELCEL_TELCO_NETWORK/out-L3OUT_UG0-1208-0006/lnodep-NP_LF_102/lifp-INTP_LF
+_102_SI3913/rspathL3OutAtt-[topology/pod-1/paths-102/pathep-[eth1/9]]
+# l3ext.RsPathL3OutAtt
+dn               : uni/tn-TELCEL_TELCO_NETWORK/out-L3OUT_UG0-1208-0006/lnodep-NP_LF_102/lifp-INTP_LF
+_102_SI3707/rspathL3OutAtt-[topology/pod-1/paths-102/pathep-[eth1/9]]
+# l3ext.RsPathL3OutAtt
+dn               : uni/tn-TELCEL_TELCO_NETWORK/out-L3OUT_UG0-1208-0006/lnodep-NP_LF_102/lifp-INTP_LF
+_102_SI9618/rspathL3OutAtt-[topology/pod-1/paths-102/pathep-[eth1/9]]
+# l3ext.RsPathL3OutAtt
+dn               : uni/tn-TELCEL_TELCO_NETWORK/out-L3OUT_UG0-1610-0007/lnodep-NP_LF_102/lifp-INTP_LF
+_102_SI2536/rspathL3OutAtt-[topology/pod-1/paths-102/pathep-[eth1/6]]
+# l3ext.RsPathL3OutAtt
+dn               : uni/tn-TELCEL_TELCO_NETWORK/out-L3OUT_UG0-1610-0007/lnodep-NP_LF_102/lifp-INTP_LF
+_102_SI0489/rspathL3OutAtt-[topology/pod-1/paths-102/pathep-[eth1/6]]
+2ACIAPICLMOCHIS01#
