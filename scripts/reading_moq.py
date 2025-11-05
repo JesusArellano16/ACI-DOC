@@ -44,8 +44,14 @@ def parse_txt_file(txt_path):
             # --- Solo para moquery l3extRsPathL3OutAtt ---
             if current_class.lower() == "l3extrspathl3outatt" and key == "dn":
                 if not value.endswith("]]"):
-                    # Agregar sufijo faltante
-                    value = value + "L3_RMAC1]]"
+                    # Buscar si la siguiente línea pertenece al mismo bloque (continuación del valor)
+                    next_index = lines.index(line) + 1
+                    if next_index < len(lines):
+                        next_line = lines[next_index].strip()
+                        # Si la siguiente línea no es otra clave ni un moquery ni un comentario
+                        if not re_key_value.match(next_line) and not re_moquery.search(next_line) and not next_line.startswith("#"):
+                            value = value + next_line
+
 
             current_obj[key] = value
 

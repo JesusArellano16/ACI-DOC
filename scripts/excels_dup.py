@@ -38,7 +38,6 @@ def clean_excel(file_path):
 
         wb.save(file_path)
         wb.close()
-        print(f"✅ Limpieza completada para {os.path.basename(file_path)}")
 
     except Exception as e:
         print(f"❌ Error limpiando {file_path}: {e}")
@@ -54,7 +53,6 @@ def dupplicate():
             #print(f"📄 Copiado: {txt_file} → {dest_file}")
             clean_excel(dest_file)
 
-        print(f"\n🎉 {len(txt_files)} archivos .xlsx creados y limpiados en {RESULTS_DIR}")
 
 
 # --- Ejecutar ---

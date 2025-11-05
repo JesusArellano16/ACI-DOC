@@ -1,15 +1,70 @@
 import os
 import re
-from openpyxl import load_workbook
+from openpyxl import load_workbook, Workbook
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))  
 SRC_DIR = os.path.join(BASE_DIR, "src")
 RESULTS_DIR = os.path.join(BASE_DIR, "results")
 TEMPLATE_PATH = os.path.join(SRC_DIR, "Template.xlsx")
+RESUMEN_PATH = os.path.join(RESULTS_DIR, "resumen.xlsx")
 
 os.makedirs(RESULTS_DIR, exist_ok=True)
 txt_files = [f for f in os.listdir(SRC_DIR) if f.lower().endswith(".txt")]
 
+
+def update_resumen_excel(combined, txt_name):
+    """Crea o actualiza el Excel 'resumen.xlsx' con la información procesada."""
+    resumen_headers = [ "REGION", "FABRIC_NAME", "POD", "NODE", "ADDRESS", "VERSION", "SERIAL", "NAME", "MODEL"]
+    
+    # Obtener el primer dígito del nombre del archivo
+    import re
+    match = re.search(r"\d", txt_name)
+    first_digit = match.group(0) if match else ""
+
+    # Abrir o crear el Excel resumen
+    if os.path.exists(RESUMEN_PATH):
+        wb_resumen = load_workbook(RESUMEN_PATH)
+        ws = wb_resumen.active
+    else:
+        wb_resumen = Workbook()
+        ws = wb_resumen.active
+        ws.title = "Resumen"
+        ws.append(resumen_headers)
+
+    # Crear índice de nombres existentes
+    name_to_row = {str(ws[f"G{row}"].value): row for row in range(2, ws.max_row + 1) if ws[f"G{row}"].value}
+
+    for item in combined:
+        name = item.get("name", "")
+        pod = item.get("pod", "")
+        node = item.get("node", "")
+        address = item.get("address", "")
+        version = item.get("version", "")
+        serial = item.get("serial", "")
+        model = item.get("model", "")
+
+        if not name:
+            continue
+
+        # Si ya existe el nombre → sobreescribir
+        if name in name_to_row:
+            row = name_to_row[name]
+        else:
+            row = ws.max_row + 1
+
+        ws[f"A{row}"] = first_digit
+        ws[f"B{row}"] = txt_name
+        ws[f"C{row}"] = pod
+        ws[f"D{row}"] = node
+        ws[f"E{row}"] = address
+        ws[f"F{row}"] = version
+        ws[f"G{row}"] = serial
+        ws[f"H{row}"] = name
+        ws[f"I{row}"] = model
+
+        
+
+    wb_resumen.save(RESUMEN_PATH)
 
 def fill_ports_sheet(all_data):
     for site, data in all_data.items():
@@ -105,7 +160,8 @@ def fill_ports_sheet(all_data):
             for col, formula in formula_templates.items():
                 if formula:
                     # Reemplazar todas las referencias numéricas de fila (e.g. I2 → I3)
-                    new_formula = re.sub(r'(\D)2\b', lambda m: f"{m.group(1)}{i}", formula)
+                    new_formula = re.sub(r'(\$?[A-Z]{1,3}\$?)2\b', lambda m: f"{m.group(1)}{i}", formula)
+
                     ws_ports_[f"{col}{i}"] = new_formula
 
         combined = data.get("eqptCh_topSystem", [])
@@ -145,6 +201,7 @@ def fill_ports_sheet(all_data):
                     new_formula = re.sub(r'(\D)2\b', lambda m: f"{m.group(1)}{i}", formula)
                     ws_ports_[f"{col}{i}"] = new_formula
 
+        update_resumen_excel(combined, site)
 
 
 
@@ -295,6 +352,5 @@ def fill_ports_sheet(all_data):
 
         wb.save(excel_path)
         wb.close()
-        print(f"✅ Datos y fórmulas escritas en {excel_name}")
 
 
