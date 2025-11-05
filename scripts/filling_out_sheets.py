@@ -108,6 +108,8 @@ def fill_ports_sheet(all_data):
 
         # Escribir datos base
         for i, item in enumerate(combined, start=2):
+            ws_ports_[f"D{i}"] = item.get("operDuplex", "")
+            ws_ports_[f"E{i}"] = item.get("operSpeed", "")
             ws_ports_[f"F{i}"] = item.get("operSt", "")
             ws_ports_[f"G{i}"] = item.get("operStQual", "")
             ws_ports_[f"I{i}"] = item.get("dn_2", "")

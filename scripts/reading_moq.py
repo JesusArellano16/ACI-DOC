@@ -99,6 +99,7 @@ def combine_l1_ethpm_from_all(all_data):
             dn_l1 = l1.get('dn', '')
             if not dn_l1:
                 continue
+
             match_eth = next(
                 (e for e in ethpm_list if e.get('dn', '').startswith(dn_l1)),
                 None
@@ -118,10 +119,24 @@ def combine_l1_ethpm_from_all(all_data):
                 combo.update({
                     'dn_2': match_eth.get('dn'),
                     'operSt': match_eth.get('operSt'),
-                    'operStQual': match_eth.get('operStQual')
+                    'operStQual': match_eth.get('operStQual'),
+                    'operDuplex': match_eth.get('operDuplex', 'Unknown'),
+                    'operSpeed': match_eth.get('operSpeed', 'Unknown')
                 })
+            else:
+                # Si no hay coincidencia en ethpmPhysIf
+                combo.update({
+                    'dn_2': '',
+                    'operSt': 'Unknown',
+                    'operStQual': 'Unknown',
+                    'operDuplex': 'Unknown',
+                    'operSpeed': 'Unknown'
+                })
+
             combined.append(combo)
+
         moqueries["l1PhysIf_ethpmPhysIf"] = combined
+
 
 def combine_eqpt_top_from_all(all_data):
     """Combina eqptCh y topSystem para todos los sitios usando el dn (topology/pod-X/node-Y)."""
