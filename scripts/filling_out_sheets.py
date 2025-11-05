@@ -14,9 +14,8 @@ txt_files = [f for f in os.listdir(SRC_DIR) if f.lower().endswith(".txt")]
 
 def update_resumen_excel(combined, txt_name):
     """Crea o actualiza el Excel 'resumen.xlsx' con la información procesada."""
-    resumen_headers = [ "REGION", "FABRIC_NAME", "POD", "NODE", "ADDRESS", "VERSION", "SERIAL", "NAME", "MODEL"]
-    
-    # Obtener el primer dígito del nombre del archivo
+    resumen_headers = ["REGION", "FABRIC_NAME", "POD", "NODE", "ADDRESS", "VERSION", "SERIAL", "NAME", "MODEL"]
+
     import re
     match = re.search(r"\d", txt_name)
     first_digit = match.group(0) if match else ""
@@ -31,8 +30,12 @@ def update_resumen_excel(combined, txt_name):
         ws.title = "Resumen"
         ws.append(resumen_headers)
 
-    # Crear índice de nombres existentes
-    name_to_row = {str(ws[f"G{row}"].value): row for row in range(2, ws.max_row + 1) if ws[f"G{row}"].value}
+    # Crear índice de nombres existentes (columna H)
+    name_to_row = {
+        str(ws[f"H{row}"].value).strip().lower(): row
+        for row in range(2, ws.max_row + 1)
+        if ws[f"H{row}"].value
+    }
 
     for item in combined:
         name = item.get("name", "")
@@ -46,9 +49,9 @@ def update_resumen_excel(combined, txt_name):
         if not name:
             continue
 
-        # Si ya existe el nombre → sobreescribir
-        if name in name_to_row:
-            row = name_to_row[name]
+        key = name.strip().lower()
+        if key in name_to_row:
+            row = name_to_row[key]
         else:
             row = ws.max_row + 1
 
@@ -62,9 +65,8 @@ def update_resumen_excel(combined, txt_name):
         ws[f"H{row}"] = name
         ws[f"I{row}"] = model
 
-        
-
     wb_resumen.save(RESUMEN_PATH)
+
 
 def fill_ports_sheet(all_data):
     for site, data in all_data.items():
